@@ -1,19 +1,23 @@
 ### Hi there I'm William Martens 👋
 
-----------------------
+
 
 [![loneicewolf's github stats](https://github-readme-stats.vercel.app/api?username=loneicewolf&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-📫 Discord: Ken-Kaneki#3978
 
+----------------------
 💬 Get in touch! william-martens@protonmail.ch
 
+📫 Discord: Ken-Kaneki#3978
 
-----------------------
 
 
-----------------------
+
+
+
+
+
 
 
 ##  🔭 .... I’m currently working on . . 
