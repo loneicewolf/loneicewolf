@@ -40,10 +40,12 @@
                - WIFI
                - RF(as stated above)
                - Bluetooth
-               
-## 2. Technical Writeups.
-  -  Coming soon.
+                   
+## 2. Technical Writeups in progress:
 
+  - Fanny.bmp Writeup - Soon done! [97% / 100%]
+  - HDD/SSD Firmware Based Rootkits. Writeup(s) [21% / 100%]
+  
 
 ----------------------
 <!--
