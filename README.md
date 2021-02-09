@@ -20,9 +20,14 @@
 
 
 
-##  🔭 .... I’m currently working on . . 
+#  🔭 .... I’m currently working on . . 
 
-## firmware based rootkits:
+
+
+## 1.  firmware based rootkits
+
+       ;; Also Preparing for taking the OSCP,
+       ;; after I have completed & earned a C - Professional Certification (3 of 7 courses complete)
 
 ####  I got inspired by some NSA Projects.
 
