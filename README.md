@@ -2,10 +2,10 @@
 
 
 
-[![loneicewolf's github stats](https://github-readme-stats.vercel.app/api?username=loneicewolf&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![loneicewolf's github stats](https://github-readme-stats.vercel.app/api?username=loneicewolf&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ----------------------
 
 
