@@ -7,17 +7,18 @@
 
 
 ----------------------
+
+
+## Fanny.bmp Malware Technical Report
+##### https://github.com/loneicewolf/fanny.bmp/blob/main/Reports/Fanny.BMP(DementiaWheel)_Technical_Report_By_WilliamMartens-2021-10Feb.pdf
+
+-------------------------
+
+
+
 💬 Get in touch! william-martens@protonmail.ch
 
 📫 Discord: Ken-Kaneki#3978
-
-### - Fanny.bmp Malware Technical Report - [100% / 100%] Done!  Just proofreading left.
-
-
-
-
-
-
 
 
 #  🔭 .... I’m currently working on . . 
