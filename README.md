@@ -11,7 +11,7 @@
 
 📫 Discord: Ken-Kaneki#3978
 
-
+### - Fanny.bmp Malware Technical Report - [100% / 100%] Done!  Just proofreading left.
 
 
 
@@ -52,7 +52,7 @@
                    
 ## 2. Technical Writeups in progress:
 
-  - Fanny.bmp Writeup - Soon done! [97% / 100%]
+ 
   - HDD/SSD Firmware Based Rootkits. Writeup(s) [21% / 100%]
   
 
