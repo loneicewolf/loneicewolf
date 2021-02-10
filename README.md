@@ -5,9 +5,6 @@
 [![loneicewolf's github stats](https://github-readme-stats.vercel.app/api?username=loneicewolf&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-----------------------
-
 
 ## Fanny.bmp Malware Technical Report
 ##### https://github.com/loneicewolf/fanny.bmp/blob/main/Reports/Fanny.BMP(DementiaWheel)_Technical_Report_By_WilliamMartens-2021-10Feb.pdf
