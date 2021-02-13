@@ -8,6 +8,7 @@
 
 ## Fanny.bmp Malware Technical Report
 ##### https://github.com/loneicewolf/fanny.bmp/blob/main/Reports/Fanny.BMP(DementiaWheel)_Technical_Report_By_WilliamMartens-2021-10Feb.pdf
+#### Note : Was written quickly.
 
 -------------------------
 
