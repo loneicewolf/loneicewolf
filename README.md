@@ -14,16 +14,21 @@
 
 
 
-💬 Get in touch! william-martens@protonmail.ch
-
-📫 Discord: Ken-Kaneki#3978
 
 
 #  🔭 .... I’m currently working on . . 
 
+## 1. Reverse engineering of [implant] Howlermonkey.
+
+Will share eventually,  just need to sort it, and share "the right" details..
+Thanks for checking my profile out!
+
+Get in touch! william-martens@protonmail.ch
+
+📫 Discord: Ken-Kaneki#3978
 
 
-## 1.  firmware based rootkits
+## 2.  firmware based rootkits
 
        ;; Also Preparing for taking the OSCP,
        ;; after I have completed & earned a C - Professional Certification (3 of 7 courses complete)
