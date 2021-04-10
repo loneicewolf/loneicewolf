@@ -4,6 +4,14 @@
 
 [![loneicewolf's github stats](https://github-readme-stats.vercel.app/api?username=loneicewolf&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Certificates:
+## Cryptography 1
+https://www.coursera.org/account/accomplishments/certificate/F8AUM7UWEU2R
+
+## Professional Certificate in C Programming with Linux
+https://credentials.edx.org/credentials/fab4e78dc2674cea93498d6197836785/
+https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/
+
 
 
 ## Fanny.bmp Malware Technical Report
