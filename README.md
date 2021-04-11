@@ -1,6 +1,8 @@
 ### Hi there I'm William Martens 👋
 
 
+|--- I am currently preparing for OSCP. Will begin it in a few days or so. ---|
+
 
 [![loneicewolf's github stats](https://github-readme-stats.vercel.app/api?username=loneicewolf&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
