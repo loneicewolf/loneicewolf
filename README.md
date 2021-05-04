@@ -1,7 +1,14 @@
 ### Hi there I'm William Martens 👋
 
+### Starting OSCP 9'th May. Will be offline/slow to respond.
 
-|--- Will soon start my Journey into OSCP. Will be offline or slow at responding - ---|
+
+
+
+
+
+
+
 
 
 [![loneicewolf's github stats](https://github-readme-stats.vercel.app/api?username=loneicewolf&theme=cobalt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
