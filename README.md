@@ -24,7 +24,6 @@ Get in touch!
 📫 william-martens@protonmail.ch
    Discord: Ken-Kaneki#3978
 ```
-----
 
 #  🔭 .... I’m currently working on . . 
 
@@ -34,7 +33,6 @@ Will share eventually. Right now, OSCP goes first.
 
 ## 2.  firmware-based Rootkits
 
-----
 
 ### ... Firmware Reverse Engineering + Backdoor Implants of it.
 #### All progress will be available here on GitHub.
@@ -54,6 +52,6 @@ Will share eventually. Right now, OSCP goes first.
                - RF(as stated above)
                - Bluetooth
 
-## 2. Technical Writeups in progress:
+### 2. Technical Writeups in progress:
 
-  - HDD/SSD Firmware Based Rootkits. Writeup(s) [21% / 100%]
+  - HDD/SSD Firmware Based Rootkits. Writeup(s) [70% / 100%]
