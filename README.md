@@ -1,6 +1,8 @@
 ### Hi there I'm William Martens 👋
 
-### Starting OSCP 9'th May. Will be offline/slow to respond.
+### OSCP STARTED - Will be  slow at responding,
+will still reply to mails, feel free to use the mailbox if it is anything!
+
 
 [AttackerKB profile](https://attackerkb.com/contributors/loneicewolf)
 
