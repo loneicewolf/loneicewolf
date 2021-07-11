@@ -1,6 +1,7 @@
 ### Hi there I'm William Martens 👋
 
 ### OSCP STARTED - Will be  slow at responding,
+See below for contact info (Incl. `Discord`)
 will still reply to mails, feel free to use the mailbox if it is anything!
 
 [AttackerKB profile](https://attackerkb.com/contributors/loneicewolf)
@@ -30,10 +31,10 @@ Get in touch!
 
 ## 1. Reverse engineering of [implant] Howlermonkey.
 
+Fully Done.
 Will share eventually. Right now, OSCP goes first.
 
 ## 2.  firmware-based Rootkits
-
 
 ### ... Firmware Reverse Engineering + Backdoor Implants of it.
 #### All progress will be available here on GitHub.
@@ -52,7 +53,9 @@ Will share eventually. Right now, OSCP goes first.
                - WIFI
                - RF(as stated above)
                - Bluetooth
-
+Right now only HDD Is "working", SSD is "work in progress" 
+(Both will be POCS avail. Here, open source - on GitHub! Will just complete my OSCP first ;) )
 ### 2. Technical Writeups in progress:
 
-  - HDD/SSD Firmware Based Rootkits. Writeup(s) [70% / 100%]
+  - HDD/SSD Firmware Based Rootkits. Writeup(s) [92% / 100%]
+     - ::comment:: It's only this (documentation) that is *missing* as well as the Practical POC for SSD. Then Done!
