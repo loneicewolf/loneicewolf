@@ -1,5 +1,25 @@
 ### Hi there I'm William Martens 👋
 
+----
+### ---- Just a Notice for you passing by ---- ####
+
+## Stay away from Corona! (Covid-19),    Get vaccinated! And protect your dearest ones! (That is, wear masks & stay inside)
+
+### ---- Just a Notice for you passing by ---- ####
+----
+
+A Good luck to:
+- You!
+- OSCP Community
+- Infosec community
+- The whole global Internet!
+
+//Best wishes
+
+
+continuing on original README.MD file below..
+
+
 ### OSCP STARTED - Will be  slow at responding,
 See below for contact info (Incl. `Discord`)
 will still reply to mails, feel free to use the mailbox if it is anything!
