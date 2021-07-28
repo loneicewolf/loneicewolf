@@ -8,8 +8,9 @@
 ### ---- Just a Notice for you passing by ---- ####
 ----
 
-A Good luck to:
+### A Good luck to:
 - You!
+- GitHub
 - OSCP Community
 - Infosec community
 - The whole global Internet!
