@@ -22,6 +22,9 @@ continuing on original README.MD file below..
 
 
 ### OSCP STARTED - Will be  slow at responding,
+
+### As well Started Preparing for EXP312 by OffensiveSecurity.
+
 See below for contact info (Incl. `Discord`)
 will still reply to mails, feel free to use the mailbox if it is anything!
 
