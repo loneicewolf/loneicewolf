@@ -51,12 +51,13 @@ Get in touch!
    Discord: Ken-Kaneki#3978
 ```
 
-#  🔭 .... I’m currently working on . . 
+##  🔭 .... I’m currently working on . . 
 
-## 1. Reverse engineering of [implant] Howlermonkey.
+## 1. Implant Reverse Engineering (Progress summary).
 
-Fully Done.
-Will share eventually. Right now, OSCP goes first.
+**Will share a Reverse-Engineered Dump of the Howkleymonkey Implant eventually.
+Right now, I am soon going to do the OSCP Exam, which of course goes first.**
+
 
 ## 2.  firmware-based Rootkits
 
@@ -65,21 +66,7 @@ Will share eventually. Right now, OSCP goes first.
 
 - SSD Firmware Reverse Engineering,
 - As well as for HDD Firmware.
-- To be able to present a POC (Proof Of Concept) of the following:
 
-        1. SSD and HDD Firmware backdoor 
-        (non-erasable persistent backdoor that is capable of (but not limited to):
-        
-           - executing reverse shells(bash,cmd,lua,python,ruby and perl to begin with)
-           - re-writing the MBR to achieve master-boot-record execution.
-           - rf - receiver and transmitter - I got especially inspired by some NSA Projects on this one.
-           - Self-Replication via USB and Over the network, as well as
-               - WIFI
-               - RF(as stated above)
-               - Bluetooth
-Right now only HDD Is "working", SSD is "work in progress" 
-(Both will be POCS avail. Here, open source - on GitHub! Will just complete my OSCP first ;) )
 ### 2. Technical Writeups in progress:
-
-  - HDD/SSD Firmware Based Rootkits. Writeup(s) [92% / 100%]
-     - ::comment:: It's only this (documentation) that is *missing* as well as the Practical POC for SSD. Then Done!
+HDD + SSD Rootkit is done  (working, 100/100)
+(Metasploit module Included)  will share when done with my OSCP Exam.
