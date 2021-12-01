@@ -1,7 +1,10 @@
 ### Hi there I'm William Martens 👋
 
 
-# Note: Will take my OSCP Exam in 10~20 days; will be offline since then;
+# Note: Will Schedule**   my OSCP EXAM in 2 days 
+
+    ( writing from: 2021-12-01 )
+
 will still read mails and discord.
 
 
