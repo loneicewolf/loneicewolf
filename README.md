@@ -1,9 +1,11 @@
 ### Hi there I'm William Martens 👋
 
+    ( writing from: 2021-12-08 )
+*oscp exam changed*
+### will take the new exam(not the old one)
+so I will book it in a week.
+(https://www.offensive-security.com/offsec/oscp-exam-structure/)
 
-# Note: Will Schedule**   my OSCP EXAM in 2 days 
-
-    ( writing from: 2021-12-01 )
 
 will still read mails and discord.
 
