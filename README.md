@@ -1,24 +1,30 @@
 ### Hi there I'm William Martens 👋
 
-    ( writing from: 2021-12-08 )
-*oscp exam changed*
-### will take the new exam(not the old one)
-so I will book it in a week.
-(https://www.offensive-security.com/offsec/oscp-exam-structure/)
+    
+- *oscp exam changed*
+
+            EDIT: ( writing from: 12/19/2021 )
+            I will book it in a week or two*.
+( https://www.offensive-security.com/offsec/oscp-exam-structure/ )
 
 
-will still read mails and discord.
+###  NOTE ON COVID-19 (and the other variants of it)
+`Please do:`
+````
+    - Stay away from Corona! (Covid-19) That is *do the below*
+    - Get vaccinated! (With all the doses, not only the first one)
+    - And protect your dearest ones! (That is, wear masks & stay inside, avoid unnecessary contact - if possible)
+
+Note: This will not go on forever, please do the above;
+thank you!
 
 
-----
-### ---- Just a Notice for you passing by ---- ####
+//Will.
+````
 
-## Stay away from Corona! (Covid-19),    Get vaccinated! And protect your dearest ones! (That is, wear masks & stay inside)
 
-### ---- Just a Notice for you passing by ---- ####
-----
-
-### A Good luck to:
+= = = = = = = 
+**A Good luck to:**
 - You!
 - GitHub
 - OSCP Community
@@ -26,14 +32,10 @@ will still read mails and discord.
 - The whole global Internet!
 
 //Best wishes
+= = = = = = 
 
-
-continuing on original README.MD file below..
-
-
-### OSCP STARTED - Will be  slow at responding,
-
-### As well Started Preparing for EXP312 by OffensiveSecurity.
+### OSCP STARTED - I am Currently in the "planning to Book the Exam" phase,
+### So will be a bit slow at responding
 
 See below for contact info (Incl. `Discord`)
 will still reply to mails, feel free to use the mailbox if it is anything!
@@ -41,6 +43,16 @@ will still reply to mails, feel free to use the mailbox if it is anything!
 [AttackerKB profile](https://attackerkb.com/contributors/loneicewolf)
 
 [![loneicewolf's github stats](https://github-readme-stats.vercel.app/api?username=loneicewolf&theme=cobalt&show_icons=true)]
+
+
+# Current Research
+----
+
+## Malware
+
+[Fanny.bmp Malware Technical Report](https://github.com/loneicewolf/fanny.bmp/blob/main/Reports/Fanny.BMP(DementiaWheel)_Technical_Report_By_WilliamMartens-2021-10Feb.pdf)
+**Note : Was written quickly.**
+
 
 ## Certificates:
 ### Cryptography 1
@@ -51,9 +63,7 @@ will still reply to mails, feel free to use the mailbox if it is anything!
 - https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/
 
 
-## Fanny.bmp Malware Technical Report
-##### https://github.com/loneicewolf/fanny.bmp/blob/main/Reports/Fanny.BMP(DementiaWheel)_Technical_Report_By_WilliamMartens-2021-10Feb.pdf
-Note : Was written quickly.
+
 
 ```
 Get in touch!
@@ -67,7 +77,6 @@ Get in touch!
 
 **Will share a Reverse-Engineered Dump of the Howkleymonkey Implant eventually.
 Right now, I am soon going to do the OSCP Exam, which of course goes first.**
-
 
 ## 2.  firmware-based Rootkits
 
