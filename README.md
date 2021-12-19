@@ -1,10 +1,10 @@
 ### Hi there I'm William Martens 👋
 
     
-- *oscp exam changed*
+# OSCP-Exam Finally Booked!
+Will probably be **quite busy(and therefore slow to respond) as to prepare some things**
 
-            EDIT: ( writing from: 12/19/2021 )
-            I will book it in a week or two*.
+
 ( https://www.offensive-security.com/offsec/oscp-exam-structure/ )
 
 
@@ -33,9 +33,6 @@ thank you!
 
 //Best wishes
 = = = = = = 
-
-### OSCP STARTED - I am Currently in the "planning to Book the Exam" phase,
-### So will be a bit slow at responding
 
 See below for contact info (Incl. `Discord`)
 will still reply to mails, feel free to use the mailbox if it is anything!
@@ -76,7 +73,7 @@ Get in touch!
 ## 1. Implant Reverse Engineering (Progress summary).
 
 **Will share a Reverse-Engineered Dump of the Howkleymonkey Implant eventually.
-Right now, I am soon going to do the OSCP Exam, which of course goes first.**
+Right now, I am going to do the OSCP Exam(booked), which of course goes first.**
 
 ## 2.  firmware-based Rootkits
 
