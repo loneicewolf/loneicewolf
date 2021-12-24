@@ -72,8 +72,10 @@ Get in touch!
 
 ## 1. Implant Reverse Engineering (Progress summary).
 
-**Will share a Reverse-Engineered Dump of the Howkleymonkey Implant eventually.
-Right now, I am going to do the OSCP Exam(booked), which of course goes first.**
+**Will share a Reverse-Engineered Dump of the [HowlerMoneky Implant](https://www.schneier.com/blog/archives/2014/01/howlermonkey_ns.html) eventually.**
+(**NOT MY SITE**)
+
+    Right now, I am going to do the OSCP Exam(booked), which of course goes first.**
 
 ## 2.  firmware-based Rootkits
 
