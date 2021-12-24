@@ -75,7 +75,9 @@ Get in touch!
 **Will share a Reverse-Engineered Dump of the [HowlerMoneky Implant](https://www.schneier.com/blog/archives/2014/01/howlermonkey_ns.html) eventually.**
 (**NOT MY SITE**)
 
+
     Right now, I am going to do the OSCP Exam(booked), which of course goes first.**
+    But I will post it over here - at this repo: https://github.com/loneicewolf/HowlerMonkey-Dump 
 
 ## 2.  firmware-based Rootkits
 
