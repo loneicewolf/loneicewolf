@@ -1,17 +1,15 @@
 ### Hi there I'm William Martens 👋
 
     
-# OSCP-Exam Finally Booked!
+## OSCP-Exam Finally Booked!
 Will probably be **quite busy(and therefore slow to respond) as to prepare some things**
-
 
 ( https://www.offensive-security.com/offsec/oscp-exam-structure/ )
 
 
 ###  NOTE ON COVID-19 (and the other variants of it)
-`Please do:`
+`Please do:Stay away from Corona! (Covid-19) That is *do the below* ` 
 ````
-    - Stay away from Corona! (Covid-19) That is *do the below*
     - Get vaccinated! (With all the doses, not only the first one)
     - And protect your dearest ones! (That is, wear masks & stay inside, avoid unnecessary contact - if possible)
 
@@ -22,20 +20,18 @@ thank you!
 //Will.
 ````
 
-
 = = = = = = = 
 **A Good luck to:**
-- You!
-- GitHub
-- OSCP Community
-- Infosec community
-- The whole global Internet!
+- 1) **You**!
+- 2) Infosecurity Communities! **(OSCP,NSA,FRA,CISA)**
+- 3) **The whole global Internet**!
 
-//Best wishes
+// Best wishes!
 = = = = = = 
 
 See below for contact info (Incl. `Discord`)
-will still reply to mails, feel free to use the mailbox if it is anything!
+will still reply to mails, feel free to use the mailbox if it is anything!  But note: If I do not reply (**I always reply ; although a bit slow**) - send me a message on Discord;or somewhere trough Github; maybe it doesn't got trough;
+
 
 [AttackerKB profile](https://attackerkb.com/contributors/loneicewolf)
 
@@ -61,7 +57,6 @@ will still reply to mails, feel free to use the mailbox if it is anything!
 
 
 
-
 ```
 Get in touch!
 📫 william-martens@protonmail.ch
@@ -82,7 +77,7 @@ Get in touch!
 ## 2.  firmware-based Rootkits
 
 ### ... Firmware Reverse Engineering + Backdoor Implants of it.
-#### All progress will be available here on GitHub.
+**All progress will be available here on GitHub.**
 
 - SSD Firmware Reverse Engineering,
 - As well as for HDD Firmware.
