@@ -3,7 +3,7 @@
     
 ## OSCP-Exam Finally Booked!
 Will probably be **quite busy(and therefore slow to respond) as to prepare some things**
-[exam changed -   link should be to the site  offensive-security dot com ](https://www.offensive-security.com/offsec/oscp-exam-structure/)
+[**exam changed** -   Note The following link should be to the site  offensive-security dot com ](https://www.offensive-security.com/offsec/oscp-exam-structure/)
 
 
 ###  NOTE ON COVID-19 (and the other variants of it)
