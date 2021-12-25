@@ -24,7 +24,7 @@ thank you!
 ## **A Good luck to:**
 ---
 1) **You**!
-2) Info-security Communities and Organizations keeping the Earth safe! **(OSCP,NSA,FRA,CISA)**
+2) Info-security Communities and Organizations keeping the Earth safe! **(OFFSEC,NSA,FRA,CISA, (..))**
 3) **The whole global Internet**!
 
 
