@@ -87,9 +87,11 @@ maybe it doesn't got trough.
 ### ... Firmware Reverse Engineering + Backdoor Implants of it.
 **All progress will be available here on GitHub.**
 
-- SSD Firmware Reverse Engineering,
-- As well as for HDD Firmware.
+- [X] SSD Firmware,
+- [X] HDD Firmware.
 
 ### 2. Technical Writeups in progress:
-HDD + SSD Rootkit is done  (working, 100/100)
-(Metasploit module Included)  will share when done with my OSCP Exam.
+- [X] Fanny.bmp 
+- [X] SSD & HDD FIrmware (RE & backdooring) (Will upload when done with my OSCP Exam.)
+
+----
