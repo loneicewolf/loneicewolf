@@ -3,8 +3,7 @@
     
 ## OSCP-Exam Finally Booked!
 Will probably be **quite busy(and therefore slow to respond) as to prepare some things**
-
-( https://www.offensive-security.com/offsec/oscp-exam-structure/ )
+[exam changed -   link should be to the site  offensive-security dot com ](https://www.offensive-security.com/offsec/oscp-exam-structure/)
 
 
 ###  NOTE ON COVID-19 (and the other variants of it)
@@ -20,11 +19,14 @@ thank you!
 //Will.
 ````
 
-= = = = = = = 
+= = = = = = = = = = = = = = 
+
 **A Good luck to:**
-- 1) **You**!
-- 2) Infosecurity Communities! **(OSCP,NSA,FRA,CISA)**
-- 3) **The whole global Internet**!
+---
+1) **You**!
+2) Info-security Communities and Organizations keeping the Earth safe! **(OSCP,NSA,FRA,CISA)**
+3) **The whole global Internet**!
+
 
 // Best wishes!
 = = = = = = 
