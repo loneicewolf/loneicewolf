@@ -1,80 +1,83 @@
 ### Hi there I'm William Martens 👋
 
-    
-## OSCP-Exam Finally Booked!
-Will probably be **quite busy(and therefore slow to respond) as to prepare some things**
-[**exam changed** -   Note The following link should be to the site  offensive-security dot com ](https://www.offensive-security.com/offsec/oscp-exam-structure/)
+## Will soon do: OSCP Exam (18th Jan) 
+`writing from 25 Dec, 2021.`
 
-
-###  NOTE ON COVID-19 (and the other variants of it)
-`Please do:Stay away from Corona! (Covid-19) That is *do the below* ` 
+## NOTE ON COVID-19 (and the other variants of it)
+Please do:Stay away from Corona! (Covid-19) That is *do the below*
 ````
     - Get vaccinated! (With all the doses, not only the first one)
     - And protect your dearest ones! (That is, wear masks & stay inside, avoid unnecessary contact - if possible)
 
-Note: This will not go on forever, please do the above;
+This will not go on forever, please do the above;
 thank you!
-
-
-//Will.
 ````
 
-= = = = = = = = = = = = = = 
-
 ## **A Good luck to:**
----
-1) **You**!
-2) Info-security Communities and Organizations keeping the Earth safe! **(OFFSEC,NSA,FRA,CISA, (..))**
-3) **The whole global Internet**!
+
+- **You**!
+- Info-security Communities and Organizations keeping the Earth safe! **(OFFSEC,NSA,FRA,CISA, (..))**
+- **The whole Internet**!
 
 
-// Best wishes!
-= = = = = = 
+## Contact:
+- [x] Email: `william-martens@protonmail.ch`
+- [x] Discord: `Ken-Kaneki#3978`
 
-See below for contact info (Incl. `Discord`)
-will still reply to mails, feel free to use the mailbox if it is anything!  But note: If I do not reply (**I always reply ; although a bit slow**) - send me a message on Discord;or somewhere trough Github; maybe it doesn't got trough;
-
-
-[AttackerKB profile](https://attackerkb.com/contributors/loneicewolf)
-
-[![loneicewolf's github stats](https://github-readme-stats.vercel.app/api?username=loneicewolf&theme=cobalt&show_icons=true)]
+Please note: If I do not reply *in Email* (**I always reply ; although a bit slow**) - send me a message on Discord; or somewhere trough Github;
+maybe it doesn't got trough.
 
 
-# Current Research
+
+## Profiles
+- [GitHub](https://github.com/loneicewolf)
+- [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
+- [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
+- [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured)
+    `Note : YouTube is quite confusing in the uploading process; so some mistakes were made (such as title; description, ( ..) Texts;) when uploading; (But which does **not** affect the actual content)`
+
+
+## Current Research
+
+### Malware
+
+----EquationGroup & others - Related----
+
+- [Fanny.bmp](https://github.com/loneicewolf/fanny.bmp)
+-   - [Fanny.bmp Malware Technical Report](https://github.com/loneicewolf/fanny.bmp/blob/main/Reports/Fanny.BMP(DementiaWheel)_Technical_Report_By_WilliamMartens-2021-10Feb.pdf) **Note : Was written quickly.**
+- [StuXnet](https://github.com/loneicewolf/Stuxnet-Source.git)
+- [FlameR](https://github.com/loneicewolf/flame-sourcecode) **Note : Forked; But added more recent samples.**
+- [Duqu](https://github.com/loneicewolf/DUQU)
+- [Gauss](https://github.com/loneicewolf/Gauss-Src)
+-   - [Encrypted Gauss-payload Decoded](https://github.com/loneicewolf/gauss-encryptedpayload_decoded) **Note : Coming soon**
+
+
 ----
 
-## Malware
 
-[Fanny.bmp Malware Technical Report](https://github.com/loneicewolf/fanny.bmp/blob/main/Reports/Fanny.BMP(DementiaWheel)_Technical_Report_By_WilliamMartens-2021-10Feb.pdf)
-**Note : Was written quickly.**
+# Experiences/Certificates:
 
-
-## Certificates:
-### Cryptography 1
+**Cryptography 1**
 - https://www.coursera.org/account/accomplishments/certificate/F8AUM7UWEU2R
 
-## Professional Certificate in C Programming with Linux
+**Professional Certificate in C Programming with Linux**
 - https://credentials.edx.org/credentials/fab4e78dc2674cea93498d6197836785/
 - https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/
 
 
 
-```
-Get in touch!
-📫 william-martens@protonmail.ch
-   Discord: Ken-Kaneki#3978
-```
 
-##  🔭 .... I’m currently working on . . 
+#  🔭 .... I’m currently working on . . 
 
-## 1. Implant Reverse Engineering (Progress summary).
+## 1. Reverse Engineering
 
-**Will share a Reverse-Engineered Dump of the [HowlerMoneky Implant](https://www.schneier.com/blog/archives/2014/01/howlermonkey_ns.html) eventually.**
-(**NOT MY SITE**)
+### 1.1 - Implants:
+- [x] HowlerMonkey (which I am partly done with)
+- info about it (Note: [**Not my site**](https://www.schneier.com/blog/archives/2014/01/howlermonkey_ns.html))
+
+- [Github repo](https://github.com/loneicewolf/HowlerMonkey-Dump) where it will be uploaded (dumped; and even a bit* reverse-engineered; Although - I will upload (here to github) this dump (but not the whole; as I mean it is a implant after all..
 
 
-    Right now, I am going to do the OSCP Exam(booked), which of course goes first.**
-    But I will post it over here - at this repo: https://github.com/loneicewolf/HowlerMonkey-Dump 
 
 ## 2.  firmware-based Rootkits
 
