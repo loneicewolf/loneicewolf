@@ -50,7 +50,7 @@ maybe it doesn't got trough.
 - [Duqu](https://github.com/loneicewolf/DUQU)
 - [Gauss](https://github.com/loneicewolf/Gauss-Src)
 -   - [Encrypted Gauss-payload Decoded](https://github.com/loneicewolf/gauss-encryptedpayload_decoded) **Note : Coming soon**
-
+- [Agent.BTZ](https://github.com/loneicewolf/Agent.btz)
 
 ----
 
@@ -65,9 +65,12 @@ maybe it doesn't got trough.
 - https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/
 
 
-
-
 #  🔭 .... I’m currently working on . . 
+(
+  aside from my personal project, The [LOCKHEED-PLATFORM](https://github.com/loneicewolf/LOCKHEED-PLATFORM)
+  see below
+)
+
 
 ## 1. Reverse Engineering
 
