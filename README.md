@@ -75,7 +75,7 @@ maybe it doesn't got trough.
 ## 1. Reverse Engineering
 
 ### 1.1 - Implants:
-- [x] HowlerMonkey (which I am partly done with)
+- [x] HowlerMonkey (which I am partly done with) (dump 1 done of 5 total [x])
 - info about it (Note: [**Not my site**](https://www.schneier.com/blog/archives/2014/01/howlermonkey_ns.html))
 
 - [Github repo](https://github.com/loneicewolf/HowlerMonkey-Dump) where it will be uploaded (dumped; and even a bit* reverse-engineered; Although - I will upload (here to github) this dump (but not the whole; as I mean it is a implant after all..
