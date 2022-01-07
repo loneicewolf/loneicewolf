@@ -1,5 +1,7 @@
 ### Hi there I'm William Martens 👋
 
+
+---
 ## Will soon do: OSCP Exam (18th Jan) 
 `writing from 25 Dec, 2021.`
 
@@ -13,31 +15,30 @@ This will not go on forever, please do the above;
 thank you!
 ````
 
-## **A Good luck to:**
+### **A Good luck to:**
 
 - **You**!
 - Info-security Communities and Organizations keeping the Earth safe! **(OFFSEC,NSA,FRA,CISA, (..))**
-- **The whole Internet**!
 
 
-## Contact:
+### Contact:
 - [x] Email: `william-martens@protonmail.ch`
 - [x] Discord: `Ken-Kaneki#3978`
 
-Please note: If I do not reply *in Email* (**I always reply ; although a bit slow**) - send me a message on Discord; or somewhere trough Github;
-maybe it doesn't got trough.
+Please note: If I do not reply *in Email* (**I always reply ; although a bit slow**) - send me a message on Discord; or somewhere trough Github; maybe it doesn't got trough.
 
-
-
-## Profiles
+### Profiles
 - [GitHub](https://github.com/loneicewolf)
 - [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
 - [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
 - [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured)
     `Note : YouTube is quite confusing in the uploading process; so some mistakes were made (such as title; description, ( ..) Texts;) when uploading; (But which does **not** affect the actual content)`
+- [Medium](https://medium.com/@william-martens)
 
-
+---
 ## Current Research
+
+
 
 ### Malware
 
