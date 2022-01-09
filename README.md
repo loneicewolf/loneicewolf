@@ -28,6 +28,7 @@ thank you!
 Please note: If I do not reply *in Email* (**I always reply ; although a bit slow**) - send me a message on Discord; or somewhere trough Github; maybe it doesn't got trough.
 
 ### Profiles
+- [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
 - [GitHub](https://github.com/loneicewolf)
 - [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
 - [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
