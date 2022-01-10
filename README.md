@@ -1,9 +1,8 @@
 ### Hi there I'm William Martens 👋
 
 
----
-## Will soon do: OSCP Exam (18th Jan) 
-`writing from 25 Dec, 2021.`
+**Will soon do: OSCP Exam (18th Jan)**
+writing from 25 Dec, 2021.
 
 ## NOTE ON COVID-19 (and the other variants of it)
 Please do:Stay away from Corona! (Covid-19) That is *do the below*
@@ -15,10 +14,14 @@ This will not go on forever, please do the above;
 thank you!
 ````
 
-### **A Good luck to:**
+### A Good luck to..
+## CERN!
 
-- **You**!
-- Info-security Communities and Organizations keeping the Earth safe! **(OFFSEC,NSA,FRA,CISA, (..))**
+- Communities and Organizations keeping the Earth safe! **(OFFSEC,NSA,FRA,CISA, (..))**
+- And those who do research on vital topics such as Physics; Medicine and so on!
+
+
+
 
 
 ### Contact:
@@ -30,6 +33,7 @@ Please note: If I do not reply *in Email* (**I always reply ; although a bit slo
 ### Profiles
 - [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
 - [GitHub](https://github.com/loneicewolf)
+- [Gists](https://gist.github.com/loneicewolf)
 - [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
 - [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
 - [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured)
