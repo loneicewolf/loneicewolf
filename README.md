@@ -1,8 +1,9 @@
-## Hi I'm William Martens 👋
+## Hi I'm William Martens ![X1](https://user-images.githubusercontent.com/68499986/149181264-7d0d1e19-7617-4f2f-b0f8-e402fb6a8130.png)
+`contact details below`
+
+**Will soon do: OSCP Exam (18th Jan) writing from 12 Jan, 2022.**
 
 
-**Will soon do: OSCP Exam (18th Jan)**
-writing from 12 Jan, 2022.
 
 ## NOTE ON COVID-19 (and the other variants of it)
 Please do:Stay away from Corona! (Covid-19) That is *do the below*
@@ -21,11 +22,7 @@ thank you!
 - And those who do research on vital topics such as Physics; Medicine and so on!
 
 
-### Contact:
-- [x] Email: `william-martens@protonmail.ch`
-- [x] Discord: `Ken-Kaneki#3978`
 
-Please note: If I do not reply *in Email* (**I always reply ; although a bit slow**) - send me a message on Discord; or somewhere trough Github; maybe it doesn't got trough.
 
 ### Profiles
 - [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
@@ -83,7 +80,6 @@ Please note: If I do not reply *in Email* (**I always reply ; although a bit slo
 - [Github repo](https://github.com/loneicewolf/HowlerMonkey-Dump) where it will be uploaded (dumped; and even a bit* reverse-engineered; Although - I will upload (here to github) this dump (but not the whole; as I mean it is a implant after all..
 
 
-
 ## 2.  firmware-based Rootkits
 
 ### ... Firmware Reverse Engineering + Backdoor Implants of it.
@@ -96,4 +92,9 @@ Please note: If I do not reply *in Email* (**I always reply ; although a bit slo
 - [X] Fanny.bmp 
 - [X] SSD & HDD FIrmware (RE & backdooring) (Will upload when done with my OSCP Exam.)
 
-----
+
+### Contact:
+- [x] Email: `william-martens@protonmail.ch`
+- [x] Discord: `Ken-Kaneki#3978`
+
+Please note: If I do not reply *in Email* (**I always reply ; although a bit slow**) - send me a message on Discord; or somewhere trough Github; maybe it doesn't got trough.
