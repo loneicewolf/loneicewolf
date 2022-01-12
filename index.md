@@ -1,4 +1,4 @@
-## Hi there I'm William Martens 👋 ![X](https://user-images.githubusercontent.com/68499986/149176482-4ff0d56e-8e67-46cf-a6a0-b78642f2860d.png)
+## Hi I'm William Martens 👋
 
 
 **Will soon do: OSCP Exam (18th Jan)**
