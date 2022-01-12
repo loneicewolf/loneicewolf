@@ -1,4 +1,4 @@
-## Hi there I'm William Martens 👋
+## Hi I'm William Martens 👋
 
 
 **Will soon do: OSCP Exam (18th Jan)**
