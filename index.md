@@ -1,12 +1,4 @@
-![g](https://user-images.githubusercontent.com/68499986/149174464-294f5e22-dbcc-4b6e-b0d9-d5ec75265ed0.png)
-### Hi there I'm William Martens 👋
-
-
-
-
-`---Note:---`
-[update this with the original README repo](https://github.com/loneicewolf/loneicewolf/blob/main/README.md)
-`---Note---`
+## Hi there I'm William Martens 👋 ![X](https://user-images.githubusercontent.com/68499986/149176482-4ff0d56e-8e67-46cf-a6a0-b78642f2860d.png)
 
 
 **Will soon do: OSCP Exam (18th Jan)**
@@ -105,4 +97,3 @@ Please note: If I do not reply *in Email* (**I always reply ; although a bit slo
 - [X] SSD & HDD FIrmware (RE & backdooring) (Will upload when done with my OSCP Exam.)
 
 ----
-
