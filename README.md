@@ -2,7 +2,7 @@
 
 
 **Will soon do: OSCP Exam (18th Jan)**
-writing from 25 Dec, 2021.
+writing from 12 Jan, 2022.
 
 ## NOTE ON COVID-19 (and the other variants of it)
 Please do:Stay away from Corona! (Covid-19) That is *do the below*
@@ -19,9 +19,6 @@ thank you!
 
 - Communities and Organizations keeping the Earth safe! **(OFFSEC,NSA,FRA,CISA, (..))**
 - And those who do research on vital topics such as Physics; Medicine and so on!
-
-
-
 
 
 ### Contact:
@@ -42,7 +39,6 @@ Please note: If I do not reply *in Email* (**I always reply ; although a bit slo
 
 ---
 ## Current Research
-
 
 
 ### Malware
