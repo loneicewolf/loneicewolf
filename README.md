@@ -4,6 +4,10 @@
 **Will soon do: OSCP Exam (18th Jan) writing from 12 Jan, 2022.**
 
 
+### ⚠️ Will do my PEN-200 OSCP EXAM (with the new exam structure; including AD) 18 Jan (writing from 17 Jan) ⚠️
+I will post info about my experience and how I prepared and stuff; [here - on Medium](https://medium.com/@william-martens/william-martens-pen-200-approach-oscp-2022-with-ad-e0b6a79d5832)
+tags: `2022, oscp, AD`
+
 
 ## NOTE ON COVID-19 (and the other variants of it)
 Please do:Stay away from Corona! (Covid-19) That is *do the below*
