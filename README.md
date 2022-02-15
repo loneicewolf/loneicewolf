@@ -1,10 +1,9 @@
 ## Hi I'm William Martens ![X1](https://user-images.githubusercontent.com/68499986/149181264-7d0d1e19-7617-4f2f-b0f8-e402fb6a8130.png)
 
-`did not pass the oscp 2022 this time;`
-`will next time though(15 Feb (assuming I do not need to re schedule it)). (Or the one after that) (I am not giving up) `
+did not pass the oscp 2022 this time;
+will next time though(15 Feb (assuming I do not need to re schedule it)). (Or the one after that) (I am not giving up)
 I will post info about my experience and how I prepared and stuff; here on my medium blog:
 [William Marten’s PEN-200 Approach (OSCP 2022, with AD)](https://medium.com/@william-martens/william-martens-pen-200-approach-oscp-2022-with-ad-e0b6a79d5832)
-tags: `2022, oscp, AD`
 
 
 ## NOTE ON COVID-19 (and the other variants of it)
