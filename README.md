@@ -2,14 +2,14 @@
 ### I'm William Martens and I am coming With Peace❤️ from Sweden 🇸🇪
 
 currently:
-- preparing for my 3rd OSCP EXAM. `(will pass it this time for sure..)`
+- preparing for my 3rd Exam at OSCP (Booked somewhere in July)
 
-### **GOOD LUCK TO**
+### GOOD LUCK TO
 
 - **UKRAINE** 🇺🇦
 - **And YOU!** 👍 (Yes, `YOU` - You read that right! No need to re-read!)
 
-### **Profiles**
+### Profiles
 - [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
 - [GitHub](https://github.com/loneicewolf)
 - [HTB](https://app.hackthebox.com/users/545815) - _Note I have not done a lot here. I made a account and forgot it._
@@ -20,7 +20,7 @@ currently:
 
 ## Current Research
 
-**EquationGroup**
+EquationGroup
 - [Fanny.bmp](https://github.com/loneicewolf/fanny.bmp)  `CURRENTLY undergoing extreme clean-up (sorry for the text-all-over-the-place)`
 - [StuXnet](https://github.com/loneicewolf/Stuxnet-Source.git) `Additional details is hopefully(/soon/) included (such as POC videos)`
 - [FlameR](https://github.com/loneicewolf/flame-sourcecode) `Additional details is `**included**` and more will be.`
@@ -28,10 +28,10 @@ currently:
 - [Gauss](https://github.com/loneicewolf/Gauss-Src) `Additional details is soon included`
 - [Agent.BTZ](https://github.com/loneicewolf/Agent.btz)
 
-## Experiences:
+### Experiences:
 - [Cryptography 1 - Stanford](https://www.coursera.org/account/accomplishments/certificate/F8AUM7UWEU2R)
-- [Professional Certificate in C Programming with Linux](https://credentials.edx.org/credentials/fab4e78dc2674cea93498d6197836785/)
-- [Professional Certificate in C Programming with Linux](https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/)
+- [Professional Certificate in C Programming with Linux - Part A](https://credentials.edx.org/credentials/fab4e78dc2674cea93498d6197836785/)
+  - [Full 'program'](https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/)
 
 # Contact:
 - [x] Email: `william-martens@protonmail.ch`
