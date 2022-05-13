@@ -1,5 +1,5 @@
 ## Hi there!
-### I'm William Martens and I am coming With Peace❤️ from Sweden 🇸🇪
+#### I'm William Martens(Just call me `will` it's easier) and I am coming With Peace❤️ from Sweden 🇸🇪
 
 currently:
 - preparing for my 3rd Exam at OSCP (Booked somewhere in July)
