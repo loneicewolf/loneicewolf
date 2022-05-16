@@ -18,6 +18,10 @@ currently:
 - [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured) `I had a bit problems with youtube - so the titles look like garbage. hopefully the content isn't.`
 - [Medium](https://medium.com/@william-martens) `posting reviews of courses; like the OSCP`
 
+
+# Current `Main`-Projects:
+- Lockheed Platform *a metasploit-like -  platform"
+
 ## Current Research
 
 EquationGroup
