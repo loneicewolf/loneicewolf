@@ -2,6 +2,9 @@
 
 #### I'm William Martens(Just call me `will` it's easier) and I am coming With Peace❤️ from Sweden 🇸🇪
 
+## 🏗️  I am a stutterer (I am stammering, that is - a speech disorder)
+
+
 currently:
 - preparing for my 3rd Exam at OSCP (Booked somewhere in July)
 
