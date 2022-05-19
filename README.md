@@ -1,4 +1,5 @@
-## Hi there!
+## Hi Hi !
+
 #### I'm William Martens(Just call me `will` it's easier) and I am coming With Peace❤️ from Sweden 🇸🇪
 
 currently:
@@ -11,6 +12,7 @@ currently:
 
 ### Profiles
 - [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
+- [Reddit](https://www.reddit.com/user/Will-VX)
 - [GitHub](https://github.com/loneicewolf)
 - [HTB](https://app.hackthebox.com/users/545815) - _Note I have not done a lot here. I made a account and forgot it._
 - [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
