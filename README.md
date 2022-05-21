@@ -32,10 +32,12 @@ currently:
 - [Medium](https://medium.com/@william-martens) `posting reviews of courses; like the OSCP`
 
 
-# Current `Main`-Projects:
-- Lockheed Platform *a metasploit-like -  platform"
 
-## Current Research
+## Current `Main`-Projects: 📡
+- [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
+- [AI-SNN](https://github.com/loneicewolf/AI-SNN)
+
+## Current Research 
 
 EquationGroup
 - [Fanny.bmp](https://github.com/loneicewolf/fanny.bmp)  `CURRENTLY undergoing extreme clean-up (sorry for the text-all-over-the-place)`
