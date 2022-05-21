@@ -2,7 +2,8 @@
 
 #### I'm William Martens(Just call me `will` it's easier) and I am coming With Peace❤️ from Sweden 🇸🇪
 
-## 🏗️  I am a stutterer (I am stammering, that is - a speech disorder)
+### 🏗️  I am a stutterer (I am stammering, that is - a speech disorder)
+I have (finally..) begun a project I always wanted in my life; [AI-SNN](https://github.com/loneicewolf/AI-SNN)
 
 
 currently:
