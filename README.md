@@ -14,7 +14,8 @@ I have (finally..) begun a project I always wanted in my life; [AI-SNN](https://
 
 
 currently:
-- preparing for my 3rd Exam at OSCP (Booked somewhere in July)
+- ### preparing for my 3rd Exam at OSCP ⭐ (**Booked 21st July**) ⭐
+
 
 ### GOOD LUCK TO
 
