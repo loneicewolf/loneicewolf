@@ -29,9 +29,9 @@ currently:
 
 
 ## Current `Main`-Projects: 📡
-- [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
-- [AI-SNN](https://github.com/loneicewolf/AI-SNN)
-- [Reverse Engineering](https://github.com/loneicewolf/ReverseEngineering)
+### - [Reverse Engineering](https://github.com/loneicewolf/ReverseEngineering)
+### - [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
+### - [AI-SNN](https://github.com/loneicewolf/AI-SNN)
 
 ## Current Research 
 
