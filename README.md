@@ -1,21 +1,15 @@
 ## Hi!
 
-#### I'm William Martens(Just call me `will` it's easier) and I am coming With Peace❤️ from Sweden 🇸🇪
-
-
+#### I'm William Martens(`will`) and I am coming with Peace from Sweden 🇸🇪
 
 translated from English to Japanese (for those who cannot speak English)
-こんにちは！ 私はウィリアム・マルテンスです、そして私は吃音です！
-(Note: it is from google translate: "Hello! I'm William Martens, and I'm stuttering!"
+`こんにちは！ 私はウィリアム・マルテンスです、そして私は吃音です！`
+(Note: it is from google translate: "Hello! I'm William Martens, and I'm stuttering!")
 
-
-### 🏗️  I am a stutterer (I am stammering, that is - a speech disorder)
-I have (finally..) begun a project I always wanted in my life; [AI-SNN](https://github.com/loneicewolf/AI-SNN)
-
+**stuttering is a speech disorder**
 
 currently:
-- ### preparing for my 3rd Exam at OSCP ⭐ (**Booked 21st July**) ⭐
-
+- `preparing for my 3rd Exam at OSCP, 21 July`
 
 ### GOOD LUCK TO
 
@@ -37,6 +31,7 @@ currently:
 ## Current `Main`-Projects: 📡
 - [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
 - [AI-SNN](https://github.com/loneicewolf/AI-SNN)
+- [Reverse Engineering](https://github.com/loneicewolf/ReverseEngineering)
 
 ## Current Research 
 
