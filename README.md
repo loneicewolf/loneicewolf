@@ -1,6 +1,6 @@
 ## Hi!
 
-#### I'm William Martens(`will`) and I am coming with Peace from Sweden 🇸🇪
+#### I'm William Martens(`I bo by the alias Electron online`) and I am coming with Peace from Sweden 🇸🇪
 
 translated from English to Japanese (for those who cannot speak English)
 `こんにちは！ 私はウィリアム・マルテンスです、そして私は吃音です！`
