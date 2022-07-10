@@ -5,21 +5,11 @@
 translated from English to Japanese (for those who cannot speak English)
 `こんにちは！ 私はウィリアム・マルテンスです、そして私は吃音です！`
 (Note: it is from google translate: "Hello! I'm William Martens, and I'm stuttering!")
-
-**stuttering is a speech disorder**
-
-currently:
-- `preparing for my 3rd Exam at OSCP, 21 July`
-
-### GOOD LUCK TO
-
-- **UKRAINE** 🇺🇦
-- **And YOU!** 👍 (Yes, `YOU` - You read that right! No need to re-read!)
+currently: reparing for my 3rd Exam at OSCP, 21 July
 
 ### Profiles
 - [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
 - [Reddit](https://www.reddit.com/user/Will-VX)
-- [GitHub](https://github.com/loneicewolf)
 - [HTB](https://app.hackthebox.com/users/545815) - _Note I have not done a lot here. I made a account and forgot it._
 - [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
 - [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
@@ -29,9 +19,9 @@ currently:
 
 
 ## Current `Main`-Projects: 📡
-### - [Reverse Engineering](https://github.com/loneicewolf/ReverseEngineering)
-### - [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
-### - [AI-SNN](https://github.com/loneicewolf/AI-SNN)
+- [Reverse Engineering](https://github.com/loneicewolf/ReverseEngineering)
+- [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
+- [AI-SNN](https://github.com/loneicewolf/AI-SNN)
 
 ## Current Research 
 
@@ -51,3 +41,9 @@ EquationGroup
 # Contact:
 - [x] Email: `william-martens@protonmail.ch`
 - [x] Discord: `Ken-Kaneki#3978`
+
+
+
+GOOD LUCK TO
+- UKRAINE 🇺🇦
+- **And YOU!** 👍 (Yes, `YOU` - You read that right! No need to re-read!)
