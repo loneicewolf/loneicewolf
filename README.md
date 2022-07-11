@@ -5,6 +5,8 @@
 translated from English to Japanese (for those who cannot speak English)
 `こんにちは！ 私はウィリアム・マルテンスです、そして私は吃音です！`
 (Note: it is from google translate: "Hello! I'm William Martens, and I'm stuttering!")
+
+
 currently: reparing for my 3rd Exam at OSCP, 21 July
 
 ### Profiles
