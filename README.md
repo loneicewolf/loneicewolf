@@ -10,6 +10,7 @@ translated from English to Japanese (for those who cannot speak English)
 currently: reparing for my 3rd Exam at OSCP, 21 July
 
 ### Profiles
+- [gits (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
 - [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
 - [Reddit](https://www.reddit.com/user/Will-VX)
 - [HTB](https://app.hackthebox.com/users/545815) - _Note I have not done a lot here. I made a account and forgot it._
