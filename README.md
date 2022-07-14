@@ -7,7 +7,7 @@ translated from English to Japanese (for those who cannot speak English)
 (Note: it is from google translate: "Hello! I'm William Martens, and I'm stuttering!")
 
 
-currently: reparing for my 3rd Exam at OSCP, 21 July
+currently: preparing for my 3rd Exam at OSCP, 21 July
 
 ### Profiles
 - [gits (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
