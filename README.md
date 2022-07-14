@@ -1,13 +1,11 @@
-## Hi!
+### Hi!
 
-#### I'm William Martens(I go by the alias `Electron` online) and I am coming with Peace from Sweden 🇸🇪
+I'm William Martens(I go by the alias `Electron` online) and I am coming with Peace from Sweden 🇸🇪
 
-translated from English to Japanese (for those who cannot speak English)
-`こんにちは！ 私はウィリアム・マルテンスです、そして私は吃音です！`
-(Note: it is from google translate: "Hello! I'm William Martens, and I'm stuttering!")
+### `preparing for my 3rd Exam at OSCP, 21 July`
+### - :red_circle: I am currently making a repo for my [HDD/SSD firmware bootkit](https://github.com/loneicewolf/HSLIW-BOOTKIT) :red_circle:
 
 
-currently: preparing for my 3rd Exam at OSCP, 21 July
 
 ### Profiles
 - [gits (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
