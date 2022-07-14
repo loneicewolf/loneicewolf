@@ -25,6 +25,9 @@ currently: reparing for my 3rd Exam at OSCP, 21 July
 - [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
 - [AI-SNN](https://github.com/loneicewolf/AI-SNN)
 
+- [DotFiles](https://github.com/loneicewolf/DotFiles)
+
+
 ## Current Research 
 
 EquationGroup
