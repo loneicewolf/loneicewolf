@@ -1,10 +1,12 @@
-### Hi!
+**Hello there!**
 
-I'm William Martens(I go by the alias `Electron` online) and I am coming with Peace from Sweden 🇸🇪
+##### * You will mostly find this introduction boring; so I will begin by stating: `I am mostly into reverse engineering, malware/exploit and infosec development.`
 
-### `preparing for my 3rd Exam at OSCP, 21 July`
-### - :red_circle: I am currently making a repo for my [HDD/SSD firmware bootkit](https://github.com/loneicewolf/HSLIW-BOOTKIT) :red_circle:
+##### * (boring) Introduction: Real name: William Martens(`Electron`)  I am from Sweden 🇸🇪, and I have a speech disorder(stuttering). (if that is on topic here? :thinking: )
 
+
+##### `preparing for my 3rd Exam at OSCP, 21 July`
+##### - :red_circle: I am currently making a repo for my [HDD/SSD firmware bootkit](https://github.com/loneicewolf/HSLIW-BOOTKIT) :red_circle:
 
 
 ### Profiles
@@ -19,7 +21,7 @@ I'm William Martens(I go by the alias `Electron` online) and I am coming with Pe
 
 
 
-## Current `Main`-Projects: 📡
+### Current `Main`-Projects: 📡
 - [Reverse Engineering](https://github.com/loneicewolf/ReverseEngineering)
 - [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
 - [AI-SNN](https://github.com/loneicewolf/AI-SNN)
@@ -27,7 +29,7 @@ I'm William Martens(I go by the alias `Electron` online) and I am coming with Pe
 - [DotFiles](https://github.com/loneicewolf/DotFiles)
 
 
-## Current Research 
+### Current Research 
 
 EquationGroup
 - [Fanny.bmp](https://github.com/loneicewolf/fanny.bmp)  `CURRENTLY undergoing extreme clean-up (sorry for the text-all-over-the-place)`
@@ -42,7 +44,7 @@ EquationGroup
 - [Professional Certificate in C Programming with Linux - Part A](https://credentials.edx.org/credentials/fab4e78dc2674cea93498d6197836785/)
   - [Full 'program'](https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/)
 
-# Contact:
+### Contact:
 - [x] Email: `william-martens@protonmail.ch`
 - [x] Discord: `Ken-Kaneki#3978`
 
