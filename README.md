@@ -2,7 +2,7 @@
 
 ##### * You will mostly find this introduction boring; so I will begin by stating: `I am mostly into reverse engineering, malware/exploit and infosec development.`
 
-##### * (boring) Introduction: Real name: William Martens(`Electron`)  I am from Sweden 🇸🇪, and I have a speech disorder(stuttering). (if that is on topic here? :thinking: )
+##### * (boring) Introduction: Real name: William Martens, I am from Sweden 🇸🇪, and I have a speech disorder(stuttering). (if that is on topic here? :thinking: )
 
 
 ##### `preparing for my 3rd Exam at OSCP, 21 July`
