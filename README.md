@@ -6,7 +6,6 @@
 
 
 ##### `preparing for my 3rd Exam at OSCP, 21 July`
-##### - :red_circle: I am currently making a repo for my [HDD/SSD firmware bootkit](https://github.com/loneicewolf/HSLIW-BOOTKIT) :red_circle:
 
 
 ### Profiles
@@ -25,7 +24,7 @@
 - [Reverse Engineering](https://github.com/loneicewolf/ReverseEngineering)
 - [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
 - [AI-SNN](https://github.com/loneicewolf/AI-SNN)
-
+- [HDD/SSD firmware bootkit](https://github.com/loneicewolf/HSLIW-BOOTKIT)
 - [DotFiles](https://github.com/loneicewolf/DotFiles)
 
 
