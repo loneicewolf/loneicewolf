@@ -1,5 +1,5 @@
 **Hello there!**
-You will mostly find stuff related to, reverse engineering, malware and exploit development. and just about anything that is consiered infosecurity.
+You will mostly find stuff related to, reverse engineering, malware and exploit development. and just about anything that is related to info security.
 
 Real name: William Martens, I am from Sweden! 🇸🇪,
 off topic: `And I have a speech disorder(stuttering).`
