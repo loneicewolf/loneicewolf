@@ -1,22 +1,24 @@
 **Hello there!**
+You will mostly find stuff related to, reverse engineering, malware and exploit development. and just about anything that is consiered infosecurity.
 
-##### * You will mostly find this introduction boring; so I will begin by stating: `I am mostly into reverse engineering, malware/exploit and infosec development.`
-
-##### * (boring) Introduction: Real name: William Martens, I am from Sweden 🇸🇪, and I have a speech disorder(stuttering). (if that is on topic here? :thinking: )
-
-
-##### `preparing for my 3rd Exam at OSCP, 21 July`
+Real name: William Martens, I am from Sweden! 🇸🇪,
+off topic: `And I have a speech disorder(stuttering).`
 
 
-### Profiles
+- `failed my 3rd OSCP Exam`
+- `but will try` **`even harder` next time**.
+
+
+
+## Site Profiles
 - [gits (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
-- [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
-- [Reddit](https://www.reddit.com/user/Will-VX)
-- [HTB](https://app.hackthebox.com/users/545815) - _Note I have not done a lot here. I made a account and forgot it._
-- [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
 - [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
+- [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
+- [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
 - [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured) `I had a bit problems with youtube - so the titles look like garbage. hopefully the content isn't.`
-- [Medium](https://medium.com/@william-martens) `posting reviews of courses; like the OSCP`
+- [Reddit](https://www.reddit.com/user/Will-VX)
+- [Medium](https://medium.com/@william-martens)
+- [HTB](https://app.hackthebox.com/users/545815)
 
 
 
