@@ -21,12 +21,10 @@ off topic: `And I have a speech disorder(stuttering).`
 - [HTB](https://app.hackthebox.com/users/545815)
 
 
-
 ### Current `Main`-Projects: 📡
 - [Reverse Engineering](https://github.com/loneicewolf/ReverseEngineering)
 - [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
 - [AI-SNN](https://github.com/loneicewolf/AI-SNN)
-- [HDD/SSD firmware bootkit](https://github.com/loneicewolf/HSLIW-BOOTKIT)
 - [DotFiles](https://github.com/loneicewolf/DotFiles)
 
 
@@ -42,13 +40,13 @@ EquationGroup
 
 ### Experiences:
 - [Cryptography 1 - Stanford](https://www.coursera.org/account/accomplishments/certificate/F8AUM7UWEU2R)
-- [Professional Certificate in C Programming with Linux - Part A](https://credentials.edx.org/credentials/fab4e78dc2674cea93498d6197836785/)
+- [Professional Certificate in C Programming with Linux](https://credentials.edx.org/credentials/fab4e78dc2674cea93498d6197836785/)
   - [Full 'program'](https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/)
+
 
 ### Contact:
 - [x] Email: `william-martens@protonmail.ch`
 - [x] Discord: `Ken-Kaneki#3978`
-
 
 
 GOOD LUCK TO
