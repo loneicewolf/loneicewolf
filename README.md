@@ -11,7 +11,7 @@ off topic: `And I have a speech disorder(stuttering).`
 
 
 ## Site Profiles
-- [gits (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
+- [gi**s**t's (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
 - [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
 - [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
 - [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
