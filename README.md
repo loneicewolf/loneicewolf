@@ -31,6 +31,7 @@ off topic: `And I have a speech disorder(stuttering).`
 ### Current Research 
 
 EquationGroup
+- [Stars Virus](https://github.com/loneicewolf/Stars-virus) `kinda stuxnet related`
 - [Fanny.bmp](https://github.com/loneicewolf/fanny.bmp)  `CURRENTLY undergoing extreme clean-up (sorry for the text-all-over-the-place)`
 - [StuXnet](https://github.com/loneicewolf/Stuxnet-Source.git) `Additional details is hopefully(/soon/) included (such as POC videos)`
 - [FlameR](https://github.com/loneicewolf/flame-sourcecode) `Additional details is `**included**` and more will be.`
