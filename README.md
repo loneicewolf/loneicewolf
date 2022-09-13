@@ -6,7 +6,7 @@ off topic: `And I have a speech disorder(stuttering).`
 
 
 - `failed my 3rd OSCP Exam`
-- `but will try` **`even harder` next time**.
+- `but will try` even harder next time. Note; I will do CompTIA courses before trying the OSCP retake. as I seem to be not prepared enough (will be a Google course, A+, Net+, Sec+ (likely))
 
 
 
