@@ -13,6 +13,7 @@ And I have a speech disorder(stuttering).
 ## Site Profiles
 - [gi**s**t's (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
 - [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
+- [Quora](https://www.quora.com/profile/Loneicewolf)
 - [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
 - [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
 - [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured) `I had a bit problems with youtube - so the titles look like garbage. hopefully the content isn't.`
