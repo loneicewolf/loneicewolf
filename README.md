@@ -53,6 +53,6 @@ EquationGroup
 - [x] Discord: `Ken-Kaneki#3978`
 
 
-GOOD LUCK TO
+# GOOD LUCK TO
 - UKRAINE 🇺🇦
 - **And YOU!** 👍 (Yes, `YOU` - You read that right! No need to re-read!)
