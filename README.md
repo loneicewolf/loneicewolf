@@ -1,8 +1,8 @@
 **Hello!**
 You will mostly find stuff related to, reverse engineering, malware and exploit development. and just about anything that is related to info security.
 
-I am William Martens, I am as well Swedish.
-And I have a speech disorder(stuttering).
+- I am `William Martens`, I am as well `Swedish`.
+- And I have a `speech disorder` (`stuttering`).
 
 
 - `failed my 3rd OSCP Exam`
