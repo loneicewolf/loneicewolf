@@ -5,7 +5,7 @@ You will mostly find stuff related to, reverse engineering, malware and exploit 
 - And I have a `speech disorder` (`stuttering`).
 
 ***
-
+I took a break but 
 ## ☢️ Now I am back! 
 
 ***
