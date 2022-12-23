@@ -4,11 +4,11 @@ You will mostly find stuff related to, reverse engineering, malware and exploit 
 - I am `William Martens`, I am as well `Swedish`.
 - And I have a `speech disorder` (`stuttering`).
 
+***
 
-- `failed my 3rd OSCP Exam`
-- `but will try` even harder next time. Note; I will do some other courses before trying again.
+## ☢️ Now I am back! 
 
-
+***
 
 ## Site Profiles
 - [gi**s**t's (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
@@ -53,6 +53,6 @@ EquationGroup
 - [x] Discord: `Ken-Kaneki#3978`
 
 
-# GOOD LUCK TO
-- UKRAINE 🇺🇦
-- **And YOU!** 👍 (Yes, `YOU` - You read that right! No need to re-read!)
+### GOOD LUCK TO
+# - UKRAINE 🇺🇦
+## - ⚛️ **CERN** :atom:
