@@ -1,14 +1,19 @@
 **Hello!**
-You will mostly find stuff related to, reverse engineering, malware and exploit development. and just about anything that is related to info security.
+I am William, but people call me mostly Will. I am Swedish, and I stutter(stuttering is a speech disorder)
 
-- I am `William Martens`, I am as well `Swedish`.
-- And I have a `speech disorder` (`stuttering`).
+Here you will find stuff related to the following:
 
-***
-I took a break but 
-## ☢️ Now I am back! 
+<details>
+<summary> Click to expand </summary>
 
-***
+  - reverse engineering (rootkits,and so on)
+  - malware and exploit (analysis,samples,...)
+  - Cryptography,Steganography and Obfuscation (`En`&`De` `Crypting`/`Obfuscating`)
+  - Guides (how to set up operating systems **but in specific ways**, e.g mostly for security)
+  - and just a little bit of notes in topics like Math, Physics and more.
+
+</details>
+
 
 ## Site Profiles
 - [gi**s**t's (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
