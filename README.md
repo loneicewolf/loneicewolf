@@ -1,7 +1,24 @@
-**Hello!**
-I am William, but people call me mostly Will. I am Swedish, and I stutter(stuttering is a speech disorder)
+# Hi
 
-Here you will find stuff related to the following:
+
+***
+
+### basic info about me:
+
+<details>
+<summary> Click to expand </summary>
+
+  - Real name: William
+  - Age:       22 (currently writing from 2022,24 December)
+  - From:      Sweden
+  - Has:       A speech disorder (namely, I stutter)
+  - contact:   (contact details can be found below)
+
+</details>
+
+***
+
+### Here you will find stuff related to the following:
 
 <details>
 <summary> Click to expand </summary>
@@ -14,10 +31,9 @@ Here you will find stuff related to the following:
 
 </details>
 
-
-## Site Profiles
+### Site Profiles
+- [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
 - [gi**s**t's (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
-- [STACK*sites (mostly physics)](https://stackexchange.com/users/19592785/william-martens)
 - [Quora](https://www.quora.com/profile/Loneicewolf)
 - [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
 - [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
@@ -32,7 +48,6 @@ Here you will find stuff related to the following:
 - [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
 - [AI-SNN](https://github.com/loneicewolf/AI-SNN)
 - [DotFiles](https://github.com/loneicewolf/DotFiles)
-
 
 ### Current Research 
 
@@ -54,10 +69,18 @@ EquationGroup
 
 
 ### Contact:
-- [x] Email: `william-martens@protonmail.ch`
-- [x] Discord: `Ken-Kaneki#3978`
 
+<details>
+<summary> Click to expand </summary>
+
+  - [x] Email: `william-martens@protonmail.ch`
+  - [x] Discord: `Ken-Kaneki#3978`
+
+</details>
+
+***
 
 ### GOOD LUCK TO
-# - UKRAINE 🇺🇦
-## - ⚛️ **CERN** :atom:
+- UKRAINE
+- CERN
+- You!
