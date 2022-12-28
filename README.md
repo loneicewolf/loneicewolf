@@ -1,10 +1,6 @@
-# Hi
+### $\color{red}{Hi\ there!}$
 
-
-***
-
-### basic info about me:
-
+Some basic info about me:
 <details>
 <summary> Click to expand </summary>
 
@@ -16,10 +12,8 @@
 
 </details>
 
-***
 
-### Here you will find stuff related to the following:
-
+Here you will find stuff related to the following:
 <details>
 <summary> Click to expand </summary>
 
@@ -78,22 +72,15 @@ EquationGroup
 - [Professional Certificate in C Programming with Linux](https://credentials.edx.org/credentials/fab4e78dc2674cea93498d6197836785/)
   - [Full 'program'](https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/)
 
-
-### Contact:
-
+Contact me below:
 <details>
 <summary> Click to expand </summary>
 
-  - [x] Email: `william-martens@protonmail.ch`
+  - [x] Email: `william-martens AT protonmail D0T ch`
   - [x] Discord: `Ken-Kaneki#3978`
 
 </details>
 
-***
-
-
-
 ### GOOD LUCK TO
 - UKRAINE
 - CERN
-- You!
