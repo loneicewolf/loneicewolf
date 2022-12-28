@@ -10,12 +10,12 @@
 </details>
 
 
-<details><summary> What do you do In GitHub? </summary>
+<details><summary> What do you do in GitHub? </summary>
 
   - reverse engineering (rootkits,and so on)
   - malware and exploit (analysis,samples,...)
   - Cryptography,Steganography and Obfuscation (`En`&`De` `Crypting`/`Obfuscating`)
-  - Guides (how to set up operating systems **but in specific ways**, e.g mostly for security)
+  - Guides (how to set up operating systems **but in specific ways**, eg mostly for security)
   - and just a little bit of notes in topics like Math, Physics and more.
 
 </details>
