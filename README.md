@@ -1,8 +1,5 @@
-### $\color{red}{Hi\ there!}$
 
-Some basic info about me:
-<details>
-<summary> Click to expand </summary>
+<details><summary> Who are you? </summary>
 
   - Real name: William
   - Age:       22 (currently writing from 2022,24 December)
@@ -13,9 +10,7 @@ Some basic info about me:
 </details>
 
 
-Here you will find stuff related to the following:
-<details>
-<summary> Click to expand </summary>
+<details><summary> What do you do In GitHub? </summary>
 
   - reverse engineering (rootkits,and so on)
   - malware and exploit (analysis,samples,...)
