@@ -29,7 +29,7 @@
 - [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured) `I had a bit problems with youtube - so the titles look like garbage. hopefully the content isn't.`
 - [Reddit](https://www.reddit.com/user/Will-VX)
 - [Medium](https://medium.com/@william-martens)
-- [HTB](https://app.hackthebox.com/users/545815)
+- [HTB](https://app.hackthebox.com/users/545815) - Note. I am not so active with "htb" and "vms" designed to be broken into anymore so much. I am right now mostly into "real" challenges by more serious organizations. (not saying HTB isn't serious, but it's just me being me)
 
 ### minor projects
 
