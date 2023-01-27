@@ -31,17 +31,16 @@
 - [Medium](https://medium.com/@william-martens)
 - [HTB](https://app.hackthebox.com/users/545815) - Note. I am not so active with "htb" and "vms" designed to be broken into anymore so much. I am right now mostly into "real" challenges by more serious organizations. (not saying HTB isn't serious, but it's just me being me)
 
-### minor projects
 
-<details>
-<summary> Click to expand </summary>
 
-  `reverse shells (windows and linux), in C`
-  - https://gist.github.com/loneicewolf/03d71d65735d8b2d34b5c60b1232d144
-  - https://gist.github.com/loneicewolf/8232aad5722e1e7de9d92932b5a01597
+
+#### "custom" 📍 Pinned Projects:
+<details><summary> pinned </summary>
+  
+  - [compact_linux_reverse_shell.c](https://gist.github.com/loneicewolf/8232aad5722e1e7de9d92932b5a01597)
+  - [compact_windows_reverse_shell.c](https://gist.github.com/loneicewolf/03d71d65735d8b2d34b5c60b1232d144)
 
 </details>
-
 
 ### Current Main Projects
 - [Reverse Engineering](https://github.com/loneicewolf/ReverseEngineering)
