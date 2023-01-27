@@ -79,3 +79,5 @@ Contact me below:
 ### GOOD LUCK TO
 - UKRAINE
 - CERN
+- NSA & FRA
+- .. and **You** :)
