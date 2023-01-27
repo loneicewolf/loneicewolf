@@ -56,12 +56,13 @@ EquationGroup
 - [Gauss](https://github.com/loneicewolf/Gauss-Src) `Additional details is soon included`
 - [Agent.BTZ](https://github.com/loneicewolf/Agent.btz)
 - [Pegasus](https://github.com/loneicewolf/Pegasus-Malware)
-
+- [LOJAX](https://github.com/loneicewolf/LOJAX)
 
 ### Experiences:
-- [Cryptography 1 - Stanford](https://www.coursera.org/account/accomplishments/certificate/F8AUM7UWEU2R)
-- [Professional Certificate in C Programming with Linux](https://credentials.edx.org/credentials/fab4e78dc2674cea93498d6197836785/)
-  - [Full 'program'](https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/)
+- [x] [Cryptography 1 - Stanford](https://www.coursera.org/account/accomplishments/certificate/F8AUM7UWEU2R)
+- [x] [Professional Certificate in C Programming with Linux](https://credentials.edx.org/credentials/fab4e78dc2674cea93498d6197836785/)
+  - [x] [Full 'program'](https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/)
+- [ ]  soon OSCP
 
 Contact me below:
 <details>
