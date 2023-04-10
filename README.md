@@ -2,7 +2,7 @@
 <details><summary> Who are you? </summary>
 
   - Real name: William
-  - Age:       22 (currently writing from 2023,4 Feb)
+  - Age:       22 (currently writing from 2023, 10 April)
   - From:      Sweden
   - Has:       A speech disorder (namely, I stutter)
   - contact:   (contact details can be found below)
