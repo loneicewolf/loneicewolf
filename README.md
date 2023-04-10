@@ -42,7 +42,8 @@
   - [RE_QUERY](https://github.com/loneicewolf/RE_QUERY)
   - [Reverse Engineering](https://github.com/loneicewolf/ReverseEngineering)
   - [Lockheed Platform](https://github.com/loneicewolf/LOCKHEED-PLATFORM) *a metasploit-like -  platform"
-
+  - [rust-notebook](https://github.com/loneicewolf/Rust-Notebook)
+  
 </details>
 
 ### Current Research 
@@ -57,6 +58,7 @@ EquationGroup
 - [Agent.BTZ](https://github.com/loneicewolf/Agent.btz)
 - [Pegasus](https://github.com/loneicewolf/Pegasus-Malware)
 - [LOJAX](https://github.com/loneicewolf/LOJAX)
+
 
 ### Experiences:
 - [x] [Cryptography 1 - Stanford](https://www.coursera.org/account/accomplishments/certificate/F8AUM7UWEU2R)
