@@ -1,4 +1,6 @@
-☣️ note: writing is not my front.
+☣️ writing is not my front.
+
+Fun fact: *I will create a blog soon! Where I Will write about both, Stuttering, Cryptography and Reverse Engineering :)*
 
 <details><summary> Who are you? </summary>
 
