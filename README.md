@@ -1,6 +1,6 @@
 ☣️ writing is not my front.
 
-Fun fact: *I will create a blog soon! Where I Will write about both, Stuttering, Cryptography and Reverse Engineering :)*
+Fun fact: *I am [creating a blog](https://github.com/loneicewolf/Blogs) Where I Will write about both, Stuttering, Cryptography and Reverse Engineering :)*
 
 <details><summary> Who are you? </summary>
 
