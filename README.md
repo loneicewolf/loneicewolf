@@ -60,7 +60,6 @@ EquationGroup
 - [Duqu](https://github.com/loneicewolf/DUQU)
 - [Gauss](https://github.com/loneicewolf/Gauss-Src) `Additional details is soon included`
 - [Agent.BTZ](https://github.com/loneicewolf/Agent.btz)
-- [Pegasus](https://github.com/loneicewolf/Pegasus-Malware)
 - [LOJAX](https://github.com/loneicewolf/LOJAX)
 
 
