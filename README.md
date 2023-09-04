@@ -61,7 +61,7 @@ EquationGroup
 - [Gauss](https://github.com/loneicewolf/Gauss-Src) `Additional details is soon included`
 - [Agent.BTZ](https://github.com/loneicewolf/Agent.btz)
 - [LOJAX](https://github.com/loneicewolf/LOJAX)
-
+- [PEGASUS](https://github.com/loneicewolf/Pegasus)
 
 ### Experiences:
 - [x] [Cryptography 1 - Stanford](https://www.coursera.org/account/accomplishments/certificate/F8AUM7UWEU2R)
