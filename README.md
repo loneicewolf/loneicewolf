@@ -15,11 +15,11 @@ Fun fact: *I am [creating a blog](https://github.com/loneicewolf/Blogs) Where I 
 
 <details><summary> What do you do in GitHub? </summary>
 
-  - reverse engineering (rootkits,and so on)
-  - malware and exploit (analysis,samples,...)
-  - Cryptography,Steganography and Obfuscation (`En`&`De` `Crypting`/`Obfuscating`)
-  - Guides (how to set up operating systems **but in specific ways**, eg mostly for security)
-  - and just a little bit of notes in topics like Math, Physics and more.
+  - Reverse engineering (rootkits,malwares)
+  - Malwares and vulns/exploits
+  - Cryptography,Steganography and Obfuscation
+  - Guides (OS setup guides mainly for security.)
+  - Physics, Stuttering, etc.
 
 </details>
 
