@@ -43,7 +43,6 @@ Fun fact: *I am [creating a blog](https://github.com/loneicewolf/Blogs) Where I 
   - [EXEC_LKM](https://github.com/loneicewolf/EXEC_LKM)
   - [DotFIles](https://github.com/loneicewolf/DotFiles)
   - [RE_QUERY](https://github.com/loneicewolf/RE_QUERY)
-  - [Reverse Engineering](https://github.com/loneicewolf/ReverseEngineering)
   
 </details>
 
