@@ -1,5 +1,7 @@
 ☣️ writing is not my front.
 
+You who reads `this` - Have a **great day**! `:)`
+
 Fun fact: *I am [creating a blog](https://github.com/loneicewolf/Blogs) Where I Will write about both, Stuttering, Cryptography and Reverse Engineering :)*
 
 <details><summary> Who are you? </summary>
