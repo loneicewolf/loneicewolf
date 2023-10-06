@@ -31,10 +31,16 @@ Fun fact: *I am [creating a blog](https://github.com/loneicewolf/Blogs) Where I 
 - [Quora](https://www.quora.com/profile/Loneicewolf)
 - [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
 - [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
-- [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured) `I had a bit problems with youtube - so the titles look like garbage. hopefully the content isn't.`
-- [Reddit](https://www.reddit.com/user/Will-VX)
 - [Medium](https://medium.com/@william-martens)
-- [HTB](https://app.hackthebox.com/users/545815) - Note. I am not so active with "htb" and "vms" designed to be broken into anymore so much. I am right now mostly into "real" challenges by more serious organizations. (not saying HTB isn't serious, but it's just me being me)
+- [Reddit](https://www.reddit.com/user/Will-VX)
+
+Notes ⚠️
+- I had problems with YouTube, like titles being too short and settings.
+  - [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured)
+
+- I am not so active with stuff designed to be broken into like VM's and such. I am more focused on real things, by more serious organizations.
+  - [HTB](https://app.hackthebox.com/users/545815)
+
 
 ### Projects
 <details><summary> pinned </summary>
