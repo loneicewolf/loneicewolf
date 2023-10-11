@@ -1,7 +1,5 @@
 ☣️ writing is not my front.
 
-You who reads `this` - Have a **great day**! `:)`
-
 Fun fact: *I am [creating a blog](https://github.com/loneicewolf/Blogs) Where I Will write about both, Stuttering, Cryptography and Reverse Engineering *and some physics* :)*
 
 <details><summary> Who are you? </summary>
@@ -77,13 +75,9 @@ Contact me below:
 <details>
 <summary> Click to expand </summary>
 
-  - [x] Email: `william-martens AT protonmail D0T ch`
-  - [x] Discord: `Ken-Kaneki#3978`
+  - Discord: `Ken-Kaneki#3978`
 
 </details>
 
 ### GOOD LUCK TO
-- UKRAINE
-- CERN
 - NSA & FRA
-- .. and **You** :)
