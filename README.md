@@ -1,3 +1,10 @@
+***
+
+Before you read any further - Have a great day ahead of you!
+Yea that was it, The above is more important than any of the below. `^_^` 
+
+***
+
 ☣️ writing is not my front.
 
 Fun fact: *I am [creating a blog](https://github.com/loneicewolf/Blogs) Where I Will write about both, Stuttering, Cryptography and Reverse Engineering *and some physics* :)*
