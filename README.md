@@ -8,8 +8,6 @@ Fun fact: *I am [creating a blog](https://github.com/loneicewolf/Blogs) Where I 
 
 <details><summary> Who are you? </summary>
 
-  *probably the most self-conscious person you will ever meet.*
-
   - Real name: William
   - Age:       23 (currently writing from 2023, 16 April)
   - From:      Sweden
