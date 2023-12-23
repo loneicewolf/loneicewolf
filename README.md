@@ -44,7 +44,10 @@ Notes ⚠️
   - [HTB](https://app.hackthebox.com/users/545815)
 
 
-### Projects
+# Main Project
+- [Radioactivity Detection](https://github.com/loneicewolf/Radioactivity-Detector_project)
+
+## Sub Projects
 <details><summary> pinned </summary>
 
   - [DFIR](https://github.com/loneicewolf/DFIR-Resources)
