@@ -1,5 +1,7 @@
-## ❤️ Have a great day ahead of you!
-## 🎄 And Happy (early) christmas! 🎄  
+# 🎄❤️ HAPPY XMAS TO YOU!❤️🎄
+## Take care! 🫂
+
+
 
 ***
 ☣️ writing is not my front.
