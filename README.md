@@ -1,4 +1,3 @@
-# 🌺🌸🎄❤️ HAPPY XMAS TO YOU! ❤️🎄🌸🌺
 💠 Have it amazing my friend! You who reads this is amazing! :)
 
 
