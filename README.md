@@ -1,5 +1,4 @@
-💠 Have it amazing my friend! You who reads this is amazing! :)
-
+You who reads this - deserves a Lovely day! ♥️
 
 ***
 ☣️ writing is not my front.
