@@ -1,14 +1,17 @@
 You who reads this - deserves a Lovely day! ♥️
 
 ***
-☣️ writing is not my front.
+# ♘♛
+Fun facts:
+- I love chess..
+- ..But writing is not my front
 
-Fun fact: *I am [creating a blog](https://github.com/loneicewolf/Blogs) Where I Will write about both, Stuttering, Cryptography and Reverse Engineering *and some physics* :)*
+*I am [creating a blog](https://github.com/loneicewolf/Blogs) Where I Will write about both, Stuttering, Cryptography and Reverse Engineering *and some physics* :)*
 
 <details><summary> Who are you? </summary>
 
-  - Real name: William
-  - Age:       23 (currently writing from 2023, 16 April)
+  - Real name: Will
+  - Age:       23
   - From:      Sweden
   - Has:       A speech disorder (namely, I stutter)
   - contact:   (contact details can be found below)
