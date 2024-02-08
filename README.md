@@ -1,7 +1,7 @@
-You who reads this - deserves a Lovely day! ♥️
+You who reads this - do me a favor and have a Lovely day, as well as take care! ♥️
 
 ***
-# ♘♛
+# ♘
 Fun facts:
 - I love chess..
 - ..But writing is not my front
