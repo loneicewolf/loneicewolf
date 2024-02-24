@@ -27,6 +27,7 @@ I love chess!
 </details>
 
 ### Site Profiles
+- [Infosec.Exchange](https://infosec.exchange/@loneicewolf)
 - [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
 - [gi**s**t's (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
 - [Quora](https://www.quora.com/profile/Loneicewolf)
