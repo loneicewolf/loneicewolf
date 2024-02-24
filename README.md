@@ -1,5 +1,5 @@
-You who reads this - do me a favor and have a Lovely day, as well as take care! ♥️
-- [Lazia - An AI (algorithm)](https://github.com/loneicewolf/LAZIA) for at the moment, playing chess and go.
+## Heya ❤️ 
+### have a great day at you!
 
 ***
 # ♘
