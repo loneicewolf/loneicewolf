@@ -2,12 +2,8 @@
 ### have a great day at you!
 
 ***
-# ♘
-Fun facts:
-- I love chess..
-- ..But writing is not my front
 
-*I am [creating a blog](https://github.com/loneicewolf/Blogs) Where I Will write about both, Stuttering, Cryptography and Reverse Engineering *and some physics* :)*
+I love chess!
 
 <details><summary> Who are you? </summary>
 
