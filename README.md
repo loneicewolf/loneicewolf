@@ -45,7 +45,7 @@ Notes ⚠️
 
 
 # Main Project
-- [Radioactivity Detection](https://github.com/loneicewolf/Radioactivity-Detector_project)
+- [ReverseShells](https://github.com/loneicewolf/ReverseShells)
 
 ## Sub Projects
 <details><summary> pinned </summary>
