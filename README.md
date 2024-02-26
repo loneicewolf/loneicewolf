@@ -3,8 +3,6 @@
 
 ***
 
-I love chess!
-
 <details><summary> Who are you? </summary>
 
   - Real name: Will
