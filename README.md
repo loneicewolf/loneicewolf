@@ -1,4 +1,4 @@
-loneicewolf - steganography
+loneicewolf - hint: steganography
 
 ## Heya ❤️ 
 ### have a great day at you!
