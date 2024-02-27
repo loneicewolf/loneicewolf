@@ -1,7 +1,6 @@
-loneicewolf - hint: steganography
 
-## Heya ❤️ 
-### have a great day at you!
+# Heya ❤️ have a great day at you!
+<sub>hint: steganography<sub>
 
 ***
 
