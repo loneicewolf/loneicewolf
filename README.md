@@ -61,12 +61,13 @@ Notes ⚠️
 ### Current Research 
 
 EquationGroup
+- [nls_933w_dll & WIN32M.SYS](https://github.com/loneicewolf/nls_933w_dll) `E's HDD reprog. modules`
 - [Stars Virus](https://github.com/loneicewolf/Stars-virus) `kinda stuxnet related`
 - [Fanny.bmp](https://github.com/loneicewolf/fanny.bmp)  `CURRENTLY undergoing extreme clean-up (sorry for the text-all-over-the-place)`
-- [StuXnet](https://github.com/loneicewolf/Stuxnet-Source.git) `Additional details is hopefully(/soon/) included (such as POC videos)`
-- [FlameR](https://github.com/loneicewolf/flame-sourcecode) `Additional details is `**included**` and more will be.`
-- [Duqu](https://github.com/loneicewolf/DUQU)
-- [Gauss](https://github.com/loneicewolf/Gauss-Src) `Additional details is soon included`
+- [StuXnet](https://github.com/loneicewolf/Stuxnet-Source.git) `additional details is hopefully(/soon/) included (such as POC videos)`
+- [FlameR](https://github.com/loneicewolf/flame-sourcecode) `additional details is `**included**` and more will be.`
+- [Duqu](https://github.com/loneicewolf/DUQU) `Duqu`
+- [Gauss](https://github.com/loneicewolf/Gauss-Src) `additional details is soon included`
 - [Agent.BTZ](https://github.com/loneicewolf/Agent.btz)
 - [LOJAX](https://github.com/loneicewolf/LOJAX)
 - [PEGASUS](https://github.com/loneicewolf/Pegasus)
