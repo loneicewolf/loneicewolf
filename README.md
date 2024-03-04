@@ -21,13 +21,13 @@ Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
   - Malwares and vulns/exploits
   - Cryptography,Steganography and Obfuscation
   - Guides (OS setup guides mainly for security.)
-  - Physics, Stuttering, etc.
 
 </details>
 
 # Main Projects
+- [nls_933w_dll & WIN32M.SYS](https://github.com/loneicewolf/nls_933w_dll)
 - [ReverseShells](https://github.com/loneicewolf/ReverseShells)
-- [nls_933w_dll & WIN32M.SYS](https://github.com/loneicewolf/nls_933w_dll) `E's HDD reprog. modules`
+
 
 ### Site Profiles
 - [Infosec.Exchange](https://infosec.exchange/@loneicewolf)
