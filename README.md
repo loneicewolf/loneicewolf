@@ -25,6 +25,10 @@ Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
 
 </details>
 
+# Main Projects
+- [ReverseShells](https://github.com/loneicewolf/ReverseShells)
+- [nls_933w_dll & WIN32M.SYS](https://github.com/loneicewolf/nls_933w_dll) `E's HDD reprog. modules`
+
 ### Site Profiles
 - [Infosec.Exchange](https://infosec.exchange/@loneicewolf)
 - [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
@@ -42,9 +46,6 @@ Notes ⚠️
 - I am not so active with stuff designed to be broken into like VM's and such. I am more focused on real things, by more serious organizations.
   - [HTB](https://app.hackthebox.com/users/545815)
 
-
-# Main Project
-- [ReverseShells](https://github.com/loneicewolf/ReverseShells)
 
 ## Sub Projects
 <details><summary> pinned </summary>
