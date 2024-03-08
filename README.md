@@ -1,6 +1,5 @@
 
 # Heya ❤️ have a great day at you!
-<sub>hint: steganography<sub>
 
 ***
 Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
