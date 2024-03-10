@@ -86,5 +86,3 @@ Contact me below:
 
 </details>
 
-### GOOD LUCK TO
-- NSA & FRA
