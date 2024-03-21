@@ -15,6 +15,9 @@ Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
 
 
 <details><summary> What do you do in GitHub? </summary>
+  
+   **$\textcolor{red}{\textsf{Throwing malware author's work into the recycle bin!}}$**
+   
 
   - Reverse engineering (rootkits,malwares)
   - Malwares and vulns/exploits
