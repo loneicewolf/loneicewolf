@@ -1,5 +1,5 @@
 
-# Heya ❤️ have a great day at you!
+# 💜🌹 Heya - Have a amazing week on you! ❤️ 
 
 ***
 Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
