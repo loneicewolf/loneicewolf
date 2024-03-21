@@ -16,12 +16,12 @@ Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
 
 <details><summary> What do you do in GitHub? </summary>
   
-   **$\textcolor{red}{\textsf{Throwing malware author's work into the recycle bin!}}$**
+ ###  **$\textcolor{pink}{\textsf{Throwing malware author's work into the recycle bin!}}$** 
    
 
   - Reverse engineering (rootkits,malwares)
   - Malwares and vulns/exploits
-  - Cryptography,Steganography and Obfuscation
+  - Cryptography,**Steganography and Obfuscation**
   - Guides (OS setup guides mainly for security.)
 
 </details>
@@ -32,7 +32,7 @@ Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
 
 
 ### Site Profiles
-- [Infosec.Exchange](https://infosec.exchange/@loneicewolf)
+- **[Infosec.Exchange](https://infosec.exchange/@loneicewolf)**
 - [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
 - [gi**s**t's (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
 - [Quora](https://www.quora.com/profile/Loneicewolf)
