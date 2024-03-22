@@ -32,7 +32,9 @@ Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
 
 
 ### Site Profiles
-- **[Infosec.Exchange](https://infosec.exchange/@loneicewolf)**
+- Mastadon
+  - [Infosec.Exchange](https://infosec.exchange/@loneicewolf)
+  - [mastadon.social](https://mastodon.social/@loneicewolf)
 - [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
 - [gi**s**t's (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
 - [Quora](https://www.quora.com/profile/Loneicewolf)
@@ -40,13 +42,8 @@ Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
 - [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
 - [Medium](https://medium.com/@william-martens)
 - [Reddit](https://www.reddit.com/user/Will-VX)
-
-Notes ⚠️
-- I had problems with YouTube, like titles being too short and settings.
-  - [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured)
-
-- I am not so active with stuff designed to be broken into like VM's and such. I am more focused on real things, by more serious organizations.
-  - [HTB](https://app.hackthebox.com/users/545815)
+- [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured) <- The Titles of the videos was problematic, youtube told me to use longer texts and use symbols(???) and other things.
+- [HTB](https://app.hackthebox.com/users/545815) <- not that active
 
 
 ## Sub Projects
