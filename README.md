@@ -1,5 +1,5 @@
 
-# **$\textcolor{purple}{\textsf{🌹 Heya - Have a amazing week on you! ❤️}}$**
+# **$\textcolor{red}{\textsf{ You who reads this! Have a great year on you! }}$**
 
 ***
 Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
