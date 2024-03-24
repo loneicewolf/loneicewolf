@@ -32,6 +32,7 @@ Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
 
 
 ### Site Profiles
+- [HDDGuru](https://forum.hddguru.com/memberlist.php?mode=viewprofile&u=42118)
 - Mastadon
   - [Infosec.Exchange](https://infosec.exchange/@loneicewolf)
   - [mastadon.social](https://mastodon.social/@loneicewolf)
