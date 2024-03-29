@@ -1,5 +1,7 @@
 
 # **$\textcolor{red}{\textsf{ You who reads this! Have a great year on you! }}$**
+- Interested in a puzzle? If so: Here's a clue! Check out my github profile's readme repo. (Not just the actual `readme` *file* but the *repo* itself) **Good luck!**
+
 
 ***
 Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
