@@ -49,7 +49,7 @@ Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
 - [HTB](https://app.hackthebox.com/users/545815) <- not that active
 
 
-## Sub Projects
+## Projects & Research
 <details><summary> pinned </summary>
 
   - [DFIR](https://github.com/loneicewolf/DFIR-Resources)
@@ -58,9 +58,8 @@ Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
   - [EXEC_LKM](https://github.com/loneicewolf/EXEC_LKM)
   - [DotFIles](https://github.com/loneicewolf/DotFiles)
   - [RE_QUERY](https://github.com/loneicewolf/RE_QUERY)
-  
-</details>
 
+  
 ### Current Research 
 
 EquationGroup
@@ -74,6 +73,8 @@ EquationGroup
 - [Agent.BTZ](https://github.com/loneicewolf/Agent.btz)
 - [LOJAX](https://github.com/loneicewolf/LOJAX)
 - [PEGASUS](https://github.com/loneicewolf/Pegasus)
+</details>
+
 
 ### Experiences:
 - [x] [Cryptography 1 - Stanford](https://www.coursera.org/account/accomplishments/certificate/F8AUM7UWEU2R)
