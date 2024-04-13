@@ -8,7 +8,7 @@ Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
 <details><summary> Who are you? </summary>
 
   - Real name: Will
-  - Age:       23
+  - Age:       24
   - From:      Sweden
   - Has:       A speech disorder (namely, I stutter)
   - contact:   (contact details can be found below)
