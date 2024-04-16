@@ -1,6 +1,12 @@
 
 # **$\textcolor{#02fd2f}{\textsf{ Have a great week on you! You deserve it}}$**
-- Interested in a puzzle? If so: Here's a clue! Check out my github profile's readme repo. (Not just the actual `readme` *file* but the *repo* itself) **Good luck!**
+
+<details><summary> Want to know something interesting? </summary>
+
+  ### **$\textcolor{#0d2dfe}{\textsf{You know You are amazing!}}$**
+  
+</details>
+
 
 
 ***
