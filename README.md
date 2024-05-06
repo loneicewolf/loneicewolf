@@ -1,5 +1,5 @@
 
-# **$\textcolor{#02fd2f}{\textsf{ Have a great week on you! You deserve it}}$**
+# **$\textcolor{#02fd2f}{\textsf{ Have a great week on you! You deserve it!}}$**
 
 <details><summary> Want to know something interesting? </summary>
 
