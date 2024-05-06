@@ -35,6 +35,7 @@ Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
 </details>
 
 # Main Projects
+- [stuxnet and more](https://github.com/loneicewolf/stuxnet_and_its_twins)
 - [nls_933w_dll & WIN32M.SYS](https://github.com/loneicewolf/nls_933w_dll)
 - [ReverseShells](https://github.com/loneicewolf/ReverseShells)
 
