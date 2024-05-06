@@ -3,7 +3,7 @@
 
 <details><summary> Want to know something interesting? </summary>
 
-  ### **$\textcolor{#0d2dfe}{\textsf{You know.. You're amazing)}}$**
+  ### **$\textcolor{#0d2dfe}{\textsf{You know.. You're amazing}}$**
   
 </details>
 
