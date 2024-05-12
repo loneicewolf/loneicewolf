@@ -3,7 +3,7 @@
 
 <details><summary> Want to know something interesting? </summary>
 
-  ### **$\textcolor{#0e2dfe}{\textsf{If you tell yourself you can't do something, because you might fail:  Prove yourself wrong! Prove yourself you can do it!}}$**
+  ### **$\textcolor{#0e2dfe}{\textsf{If you tell yourself you can't do something: Prove yourself wrong! Prove yourself you can do it!}}$**
   
 </details>
 
