@@ -5,13 +5,9 @@
 
   ### **$\textcolor{#FF000B}{\textsf{Effort won't disappear}}$**
   
-  
 </details>
 
-
-
 ***
-Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
 <details><summary> Who are you? </summary>
 
   - Real name: Will
@@ -19,8 +15,18 @@ Under construction: [loneicewolf.github.io](https://loneicewolf.github.io/)
   - From:      Sweden
   - Has:       A speech disorder (namely, I stutter)
   - contact:   (contact details can be found below)
+  - my blog [loneicewolf.github.io](https://loneicewolf.github.io/)
 
+  
 </details>
+
+
+<details><summary> My main focus in life </summary>
+
+  - I always have told myself I write/talk too much; But I am beginning to accept it's who I am ^_^
+  
+</details>
+
 
 
 <details><summary> What do you do in GitHub? </summary>
