@@ -3,7 +3,8 @@
 
 <details><summary> Want to know something interesting? </summary>
 
-  ### **$\textcolor{#0e2dfe}{\textsf{If you tell yourself you can't do something: Prove yourself wrong! Prove yourself you can do it!}}$**
+  ### **$\textcolor{#FF000B}{\textsf{Effort won't disappear}}$**
+  
   
 </details>
 
