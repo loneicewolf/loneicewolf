@@ -1,10 +1,11 @@
 
-# **$\textcolor{#02fd2f}{\textsf{ Have a great week on you! You deserve it!}}$**
-
+<div align="center">
+  <h1>Heya!</h1>
+  <h2>$\textcolor{#02fd2f}{\textsf{ Have a great week on you! You deserve it!}}$</h2>
+</div>
 <details><summary> Want to know something interesting? </summary>
 
-  ### **$\textcolor{#FF000B}{\textsf{Effort won't disappear}}$**
-  
+### **$\textcolor{#FF000B}{\textsf{Effort won't disappear}}$**
 </details>
 
 ***
