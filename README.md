@@ -21,20 +21,10 @@
   
 </details>
 
-
-<details><summary> My main focus in life </summary>
-
-  - I always have told myself I write/talk too much; But I am beginning to accept it's who I am ^_^
-  
-</details>
-
-
-
 <details><summary> What do you do in GitHub? </summary>
   
  ###  **$\textcolor{pink}{\textsf{Throwing malware author's work into the recycle bin!}}$** 
    
-
   - Reverse engineering (rootkits,malwares)
   - Malwares and vulns/exploits
   - Cryptography,**Steganography and Obfuscation**
@@ -43,10 +33,11 @@
 </details>
 
 # Main Projects
+- 🗒️ [`My Scratchpad`](https://github.com/loneicewolf/Scratchpad)
 - [stuxnet and more](https://github.com/loneicewolf/stuxnet_and_its_twins)
 - [nls_933w_dll & WIN32M.SYS](https://github.com/loneicewolf/nls_933w_dll)
 - [ReverseShells](https://github.com/loneicewolf/ReverseShells)
-
+https://github.com/loneicewolf/Scratchpad
 
 ### Site Profiles
 - [HDDGuru](https://forum.hddguru.com/memberlist.php?mode=viewprofile&u=42118)
