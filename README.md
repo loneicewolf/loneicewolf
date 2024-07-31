@@ -2,6 +2,7 @@
 <div align="center">
   <h1>Heya!</h1>
   <h2>$\textcolor{#02fd2f}{\textsf{ Have a great week on you! You deserve it!}}$</h2>
+  <h4>$\textcolor{#01388f}{\textsf{ I am taking some breaks, so I migt be inactive, sorry ❤️ But do take care!}}$</h4>
 </div>
 <details><summary> Want to know something interesting? </summary>
 
