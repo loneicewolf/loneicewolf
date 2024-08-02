@@ -10,14 +10,17 @@
 
 <details><summary> Want to know something interesting? </summary>
 
-  **$\textcolor{#ff06d8}{\textsf{Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't.}}$**
+  **$\textcolor{#ff06d8}{\textsf{Strength doesn't come from what you can do}}$** 
+  
+**$\textcolor{#ff06d8}{\textsf{It comes from overcoming the things you once thought you couldn't. }}$**
+  
 
 </details>
 
 ***
 <details><summary> Who are you? </summary>
 
-  - Real name: Will
+  - I am `Will`!
   - Age:       24
   - From:      Sweden
   - Has:       A speech disorder (namely, I stutter)
