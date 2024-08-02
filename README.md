@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>Heya!</h1>
-  <h2>$\textcolor{#02fd2f}{\textsf{ Have a great week on you! You deserve it!}}$</h2>
-  <h4>$\textcolor{#01388f}{\textsf{ I am taking some breaks, so I migt be inactive, sorry ❤️ But do take care!}}$</h4>
+  <h2>$\textcolor{#e006ff}{\textsf{ 💮 Have a great week on you! You deserve it! 🪷}}$</h2>
+  <h5>$\textcolor{#25ff7a}{\textsf{  🏥 I am taking some breaks, so I migt be inactive, I'm sorry ❤️ Do take care please!🌹}}$</h5>
 </div>
 
 
@@ -11,7 +10,7 @@
 
 <details><summary> Want to know something interesting? </summary>
 
-  ### **$\textcolor{#FF000B}{\textsf{Effort won't disappear}}$**
+  **$\textcolor{#ff06d8}{\textsf{Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't.}}$**
 
 </details>
 
@@ -30,7 +29,7 @@
 
 <details><summary> What do you do in GitHub? </summary>
   
- ###  **$\textcolor{pink}{\textsf{Throwing malware author's work into the recycle bin!}}$** 
+ ###  **$\textcolor{#ff0fe1}{\textsf{Throwing malware author's work into the recycle bin!}}$** 
    
   - Reverse engineering (rootkits,malwares)
   - Malwares and vulns/exploits
@@ -44,7 +43,7 @@
 - [stuxnet and more](https://github.com/loneicewolf/stuxnet_and_its_twins)
 - [nls_933w_dll & WIN32M.SYS](https://github.com/loneicewolf/nls_933w_dll)
 - [ReverseShells](https://github.com/loneicewolf/ReverseShells)
-https://github.com/loneicewolf/Scratchpad
+
 
 ### Site Profiles
 - [HDDGuru](https://forum.hddguru.com/memberlist.php?mode=viewprofile&u=42118)
