@@ -1,12 +1,18 @@
-
 <div align="center">
   <h1>Heya!</h1>
   <h2>$\textcolor{#02fd2f}{\textsf{ Have a great week on you! You deserve it!}}$</h2>
   <h4>$\textcolor{#01388f}{\textsf{ I am taking some breaks, so I migt be inactive, sorry ❤️ But do take care!}}$</h4>
 </div>
+
+
+**$\textcolor{cyan}{\textsf{Main Project}}$** 
+- [`StuxNet`](https://github.com/loneicewolf/Stuxnet-Source)
+
+
 <details><summary> Want to know something interesting? </summary>
 
-### **$\textcolor{#FF000B}{\textsf{Effort won't disappear}}$**
+  ### **$\textcolor{#FF000B}{\textsf{Effort won't disappear}}$**
+
 </details>
 
 ***
