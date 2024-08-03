@@ -3,7 +3,6 @@
   <h5>$\textcolor{#25ff7a}{\textsf{  🏥 I am taking some breaks, so I migt be inactive, I'm sorry ❤️ Do take care please!🌹}}$</h5>
 </div>
 
-
 **$\textcolor{cyan}{\textsf{MAJOR PROJECTS}}$** 
 - [ ]  **`NEW`** [RE-nls_933w_dll](https://github.com/loneicewolf/RE-nls_933w_dll)
 - [X] **`DONE`**  [`StuxNet`](https://github.com/loneicewolf/Stuxnet-Source)
