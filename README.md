@@ -52,7 +52,7 @@
 - [HDDGuru](https://forum.hddguru.com/memberlist.php?mode=viewprofile&u=42118)
 - Mastadon
   - [Infosec.Exchange](https://infosec.exchange/@loneicewolf)
-  - [mastadon.social](https://mastodon.social/@loneicewolf)
+  - [**DEFCON**.social](https://defcon.social/@loneicewolf)
 - [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
 - [gi**s**t's (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
 - [Quora](https://www.quora.com/profile/Loneicewolf)
