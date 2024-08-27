@@ -50,6 +50,7 @@
 
 
 ### Site Profiles
+- [huggingface](https://huggingface.co/loneicewolf)
 - [HDDGuru](https://forum.hddguru.com/memberlist.php?mode=viewprofile&u=42118)
 - Mastadon
   - [Infosec.Exchange](https://infosec.exchange/@loneicewolf)
