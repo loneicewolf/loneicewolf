@@ -5,7 +5,7 @@
   I am taking some breaks, so I migt be inactive, I'm sorry! ❤️ But do take care please!🌹
 </div>
 
-## **$\textcolor{cyan}{\textsf{MAJOR PROJECTS}}$** 
+## MAJOR PROJECTS
 - [ ] **[`CS` `Notes`](https://github.com/loneicewolf/CS-Notes)**
 - [ ] [RE-nls_933w_dll](https://github.com/loneicewolf/RE-nls_933w_dll)
 - [X] [`StuxNet`](https://github.com/loneicewolf/Stuxnet-Source)
@@ -13,9 +13,7 @@
 
 <details><summary> Want to know something interesting? </summary>
 
-  **$\textcolor{#ff06d8}{\textsf{Strength doesn't come from what you can do}}$** 
-  
-**$\textcolor{#ff06d8}{\textsf{It comes from overcoming the things you once thought you couldn't. }}$**
+* Strength doesn't come from what you can do - It comes from overcoming the things you once thought you couldn't.
   
 
 </details>
@@ -35,8 +33,7 @@
 
 <details><summary> What do you do in GitHub? </summary>
   
- ###  **$\textcolor{#ff0fe1}{\textsf{Throwing malware author's work into the recycle bin!}}$** 
-   
+## Turning malware into scrap metal!
   - Reverse engineering (rootkits,malwares)
   - Malwares and vulns/exploits
   - Cryptography,**Steganography and Obfuscation**
