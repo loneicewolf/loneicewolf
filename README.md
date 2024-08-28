@@ -1,6 +1,8 @@
 <div align="center">
-  <h2>$\textcolor{#e006ff}{\textsf{ 💮 Have a great week on you! You deserve it! 🪷}}$</h2>
-  <h5>$\textcolor{#25ff7a}{\textsf{  🏥 I am taking some breaks, so I migt be inactive, I'm sorry ❤️ Do take care please!🌹}}$</h5>
+  
+  # 💮 Have a great week on you! You deserve it! 🪷
+  
+  I am taking some breaks, so I migt be inactive, I'm sorry! ❤️ But do take care please!🌹
 </div>
 
 ## **$\textcolor{cyan}{\textsf{MAJOR PROJECTS}}$** 
