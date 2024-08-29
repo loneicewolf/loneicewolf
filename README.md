@@ -3,14 +3,28 @@
   # ♥️ Welcome!
   ### What is this place? 
   ### 🥼 It's my lab, where I turn malware into molecular chimeric antibodies!
-  <sub>And.. That, in plain English? **I share knowledge how to protect the system from malware**</sub> <sub><sub>🧪</sub></sub>
 
 </div>
 
-
 <details><summary> Who are you? </summary>
 
-  - I am `Will`!
+  
+
+- I am Will, an
+<a
+id="cy-effective-orcid-url"
+class="underline"
+ href="https://orcid.org/0009-0002-3305-3558"
+ target="orcid.widget"
+ rel="me noopener noreferrer"
+ style="vertical-align: top">
+ <img
+    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+    style="width: 0.3em; margin-inline-start: 0.3em"
+    alt="ORCID iD icon"/>
+    Independent Researcher
+</a>  in the Malware Reversing Field.
+  
   - Age:       24
   - From:      Sweden
   - Has:       A speech disorder (namely, I stutter)
@@ -18,8 +32,14 @@
   - my blog [loneicewolf.github.io](https://loneicewolf.github.io/)
 
   
+### Experiences:
+- [x] [Cryptography 1 - Stanford](https://www.coursera.org/account/accomplishments/certificate/F8AUM7UWEU2R)
+- [x] [Professional Certificate in C Programming with Linux](https://credentials.edx.org/credentials/fab4e78dc2674cea93498d6197836785/)
+  - [x] [Full 'program'](https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/)
+
 </details>
 
+<details><summary> Site profiles </summary>
 
 ### Site Profiles
 - [huggingface](https://huggingface.co/loneicewolf)
@@ -36,17 +56,8 @@
 - [Reddit](https://www.reddit.com/user/Will-VX)
 - [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured) <- The Titles of the videos was problematic, youtube told me to use longer texts and use symbols(???) and other things.
 - [HTB](https://app.hackthebox.com/users/545815) <- not that active
-
-
-<details><summary> What do you do in GitHub? </summary>
-  
-## Turning malware into scrap metal!
-  - Reverse engineering (rootkits,malwares)
-  - Malwares and vulns/exploits
-  - Cryptography,**Steganography and Obfuscation**
-  - Guides (OS setup guides mainly for security.)
-
 </details>
+
 
 
 <details><summary> Research </summary>
@@ -62,7 +73,6 @@
 </details>
 
 
-## Projects & Research
 <details><summary> pinned </summary>
 
   - [DFIR](https://github.com/loneicewolf/DFIR-Resources)
@@ -90,19 +100,12 @@ EquationGroup
 </details>
 
 
-### Experiences:
-- [x] [Cryptography 1 - Stanford](https://www.coursera.org/account/accomplishments/certificate/F8AUM7UWEU2R)
-- [x] [Professional Certificate in C Programming with Linux](https://credentials.edx.org/credentials/fab4e78dc2674cea93498d6197836785/)
-  - [x] [Full 'program'](https://credentials.edx.org/records/programs/shared/fb0f3a74321848018571b2468805e844/)
-
-### PFP
-*It's Grea from Manaria Friends*
-
-Contact me below:
 <details>
-<summary> Click to expand </summary>
+<summary> Contact </summary>
 
-  - Discord: `Ken-Kaneki#3978`
+- dc: `Ken-Kaneki` H-A-S-H_T-A-G `3978`
 
 </details>
+
+<sub> <img src="https://github.com/loneicewolf/loneicewolf/blob/main/tocsam/Steg_Challenge_3.png" width="20">   Profile Picture is Grea from Manaria Friends </sub>
 
