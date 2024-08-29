@@ -1,24 +1,13 @@
 <div align="center">
-  
-  # 💮 Have a great week on you! You deserve it! 🪷
-  
-  I am taking some breaks, so I migt be inactive, I'm sorry! ❤️ But do take care please!🌹
+
+  # ♥️ Welcome!
+  ### What is this place? 
+  ### 🥼 It's my lab, where I turn malware into molecular chimeric antibodies!
+  <sub>And.. That, in plain English? **I share knowledge how to protect the system from malware**</sub> <sub><sub>🧪</sub></sub>
+
 </div>
 
-## MAJOR PROJECTS
-- [ ] **[`CS` `Notes`](https://github.com/loneicewolf/CS-Notes)**
-- [ ] [RE-nls_933w_dll](https://github.com/loneicewolf/RE-nls_933w_dll)
-- [X] [`StuxNet`](https://github.com/loneicewolf/Stuxnet-Source)
 
-
-<details><summary> Want to know something interesting? </summary>
-
-* Strength doesn't come from what you can do - It comes from overcoming the things you once thought you couldn't.
-  
-
-</details>
-
-***
 <details><summary> Who are you? </summary>
 
   - I am `Will`!
@@ -30,22 +19,6 @@
 
   
 </details>
-
-<details><summary> What do you do in GitHub? </summary>
-  
-## Turning malware into scrap metal!
-  - Reverse engineering (rootkits,malwares)
-  - Malwares and vulns/exploits
-  - Cryptography,**Steganography and Obfuscation**
-  - Guides (OS setup guides mainly for security.)
-
-</details>
-
-# Main Projects
-- 🗒️ [`My Scratchpad`](https://github.com/loneicewolf/Scratchpad)
-- [stuxnet and more](https://github.com/loneicewolf/stuxnet_and_its_twins)
-- [nls_933w_dll & WIN32M.SYS](https://github.com/loneicewolf/nls_933w_dll)
-- [ReverseShells](https://github.com/loneicewolf/ReverseShells)
 
 
 ### Site Profiles
@@ -63,6 +36,30 @@
 - [Reddit](https://www.reddit.com/user/Will-VX)
 - [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured) <- The Titles of the videos was problematic, youtube told me to use longer texts and use symbols(???) and other things.
 - [HTB](https://app.hackthebox.com/users/545815) <- not that active
+
+
+<details><summary> What do you do in GitHub? </summary>
+  
+## Turning malware into scrap metal!
+  - Reverse engineering (rootkits,malwares)
+  - Malwares and vulns/exploits
+  - Cryptography,**Steganography and Obfuscation**
+  - Guides (OS setup guides mainly for security.)
+
+</details>
+
+
+<details><summary> Research </summary>
+
+## MAJOR PROJECTS
+- [ ] **[`CS` `Notes`](https://github.com/loneicewolf/CS-Notes)**
+- [ ] [RE-nls_933w_dll](https://github.com/loneicewolf/RE-nls_933w_dll)
+- [X] [`StuxNet`](https://github.com/loneicewolf/Stuxnet-Source)
+- 🗒️ [`My Scratchpad`](https://github.com/loneicewolf/Scratchpad)
+- [nls_933w_dll & WIN32M.SYS](https://github.com/loneicewolf/nls_933w_dll)
+- [ReverseShells](https://github.com/loneicewolf/ReverseShells)
+
+</details>
 
 
 ## Projects & Research
