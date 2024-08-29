@@ -2,7 +2,7 @@
 
   # ♥️ Welcome!
   ### What is this place? 
-  ### 🥼 It's my lab, where I turn malware into Monoclonal antibody!
+  ### 🥼 It's my lab, where malware is turned into Monoclonal antibodies!
 
 </div>
 
