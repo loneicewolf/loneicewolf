@@ -2,13 +2,12 @@
 
   # ♥️ Welcome!
   ### What is this place? 
-  ### 🥼 It's my lab, where malware is turned into digital antibodies !
+  ### 🥼 It's my lab, where malware is turned into digital antibodies!
 
 </div>
 
 <details><summary> Who are you? </summary>
 
-  
 
 - I am Will, an
 <a
