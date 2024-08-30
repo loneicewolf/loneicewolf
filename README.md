@@ -2,7 +2,7 @@
 
   # ♥️ Welcome!
   ### What is this place? 
-  ### 🥼 It's my lab, where malware is turned into digital antibodies and vaccines!
+  ### 🥼 It's my lab, where malware is turned into digital antibodies !
 
 </div>
 
