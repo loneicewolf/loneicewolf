@@ -106,5 +106,6 @@ EquationGroup
 
 </details>
 
-<sub> <img src="https://github.com/loneicewolf/loneicewolf/blob/main/tocsam/Steg_Challenge_3.png" width="20">   Profile Picture is Grea from Manaria Friends </sub>
+
+<sub> <img src="https://github.com/loneicewolf/loneicewolf/blob/main/tocsam/Steg_Challenge_3.png" width="20">  `(Steg challenge)`  Profile Picture is Grea from Manaria Friends </sub>
 
