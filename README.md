@@ -4,6 +4,8 @@
   ### What is this place? 
   ### 🥼 It's my lab, where malware is turned into digital antibodies!
 
+   [Linux Notes to my Friend](https://github.com/loneicewolf/linux_survival)
+
 </div>
 
 <details><summary> Who are you? </summary>
