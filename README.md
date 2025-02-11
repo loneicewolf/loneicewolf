@@ -14,7 +14,7 @@
 <details><summary> Who are you? </summary>
 
 
-- I go by Jane, or Will as people call me, an
+- I am Jane!
 <a
 id="cy-effective-orcid-url"
 class="underline"
