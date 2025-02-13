@@ -3,7 +3,6 @@
   ## 🩷Big shoutout to a [Special Someone](https://github.com/epsii20). You are my everything! 🩷
 
   # ♥️ Welcome!
-  # 💌 🌹 HAPPY NEW YEAR! 🌹 💌
   ### What is this place? 
   ### 🥼 It's my lab, where malware is turned into digital antibodies!
 
@@ -106,6 +105,8 @@ EquationGroup
 
 <details>
 <summary> Contact </summary>
+ 
+- stegano_id: `0AA01A0F1`
 
 - dc: `Ken-Kaneki` H-A-S-H_T-A-G `3978`
 
