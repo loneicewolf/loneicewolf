@@ -107,9 +107,8 @@ EquationGroup
 <summary> Contact </summary>
  
 - stegano_id: `0AA01A0F1`
-
 - dc: `Ken-Kaneki` H-A-S-H_T-A-G `3978`
-
+- REVOLT: `Jane HASHTAG 2360`
 </details>
 
 
