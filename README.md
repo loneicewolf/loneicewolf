@@ -1,6 +1,6 @@
 <div align="center">
  
-  ### 🩷  I want to first say thank you for being here [Epsi - You are turly Special](https://github.com/epsii20). You are my everything! 🩷
+  ### 🩷  I want to first say thank you for being here [Epsi - You are truly Special](https://github.com/epsii20). You are my everything! 🩷
   #### 💗 And, another thing, to a friend of my friends. A very important one, that I feel heavy heart with. 💗
   🌹 *Xyllia, you were strong till the end. Thank you for everything you gave us. We will always love you.* 🌹
 
