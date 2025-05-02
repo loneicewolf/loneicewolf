@@ -10,16 +10,18 @@
 
   #### ♥️ Welcome!
   #### What is this place? 
-  #### 🥼 It's my lab, where malware is turned into digital antibodies!
+  #### 🥼 [It's my lab](https://bsky.app/profile/loneicewolf.bsky.social), where malware is turned into digital antibodies!
 
    [Linux Notes to my Friend](https://github.com/loneicewolf/linux_survival)
+   
+   This is my  [Blue Sky](https://bsky.app/profile/loneicewolf.bsky.social)
 
 </div>
 
 <details><summary> Who are you? </summary>
 
 
-- I am Jane!
+- I am Jane! 
 <a
 id="cy-effective-orcid-url"
 class="underline"
