@@ -116,7 +116,7 @@ EquationGroup
 <summary> Contact </summary>
  
 - stegano_id: `0AA01A0F1`
-- dc: `Ken-Kaneki` H-A-S-H_T-A-G `3978`
+- dc: `Ken-Kaneki` H-A-S-H_T-A-G `3978` <- I AM LEAVING DISCORD.   USE REVOLT INSTEAD! it's way less toxic <3
 - REVOLT: `Jane HASHTAG 2360`
 </details>
 
