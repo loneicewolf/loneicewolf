@@ -1,8 +1,13 @@
-<div align="center">
- 
-  ### 🩷  Thank you [Epsi](https://github.com/epsii20). for being here! You are my everything! 🩷
 
-  #### ♥️ Welcome!
+ # Shout outs
+  ### 🩷  Thanks for being here [Epsi](https://github.com/epsii20)!
+  ### 🩷  Thanks for being a great & helpful malware analyst [Ephrimgnanam](https://github.com/Ephrimgnanam)!
+
+<div align="center">
+
+___
+
+  # ♥️ Welcome!
   #### What is this place? 
   #### 🥼 [It's my lab](https://bsky.app/profile/loneicewolf.bsky.social), where malware is turned into digital antibodies!
 
