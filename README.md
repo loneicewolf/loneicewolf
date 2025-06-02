@@ -10,7 +10,7 @@ ___
   # ♥️ Welcome!
   #### What is this place? 
   #### 🥼 [It's my lab](https://bsky.app/profile/loneicewolf.bsky.social), where malware is turned into digital antibodies!
-
+  ## ♥️Want to be friends? add me on revolt! contact below ♥️
    [Linux Notes to my Friend](https://github.com/loneicewolf/linux_survival)
    
    This is my  [Blue Sky](https://bsky.app/profile/loneicewolf.bsky.social)
@@ -111,7 +111,6 @@ EquationGroup
 </details>
 
 
-## Note I am now on Revolt (I quit discord)
 <details>
 <summary> Contact </summary>
  
