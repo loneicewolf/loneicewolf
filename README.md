@@ -1,19 +1,12 @@
 
- # Shout outs
-  ### 🩷  Thanks for being here [Epsi](https://github.com/epsii20)!
-  ### 🩷  Thanks for being a great & helpful malware analyst [Ephrimgnanam](https://github.com/Ephrimgnanam)!
-
 <div align="center">
 
 ___
 
-  # ♥️ [Welcome!](https://github.com/loneicewolf/Shout-Outs) 
+  # [Welcome!](https://github.com/loneicewolf/Shout-Outs) 
   #### What is this place? 
-  #### 🥼 [It's my lab](https://bsky.app/profile/loneicewolf.bsky.social), where malware is turned into digital antibodies!
-  ## ♥️Want to be friends? add me on revolt! contact below ♥️
-   [Linux Notes to my Friend](https://github.com/loneicewolf/linux_survival)
-   
-   This is my  [Blue Sky](https://bsky.app/profile/loneicewolf.bsky.social)
+  #### It's my lab, where malware is turned into digital antibodies!
+
 
 </div>
 
@@ -53,6 +46,7 @@ class="underline"
 <details><summary> Site profiles </summary>
 
 ### Site Profiles
+- [Blue Sky](https://bsky.app/profile/loneicewolf.bsky.social)
 - [huggingface](https://huggingface.co/loneicewolf)
 - [HDDGuru](https://forum.hddguru.com/memberlist.php?mode=viewprofile&u=42118)
 - Mastadon
@@ -106,7 +100,7 @@ EquationGroup
 - [Agent.BTZ](https://github.com/loneicewolf/Agent.btz)
 - [LOJAX](https://github.com/loneicewolf/LOJAX)
 - [PEGASUS](https://github.com/loneicewolf/Pegasus)
-
+- [Linux Notes to my Friend](https://github.com/loneicewolf/linux_survival)
 - [X] **`DONE`**  [`StuxNet`](https://github.com/loneicewolf/Stuxnet-Source)
 </details>
 
