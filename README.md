@@ -4,8 +4,8 @@
 ___
 
   # [Welcome!](https://github.com/loneicewolf/Shout-Outs) 
-  #### What is this place? 
-  #### It's my lab, where malware is turned into digital antibodies!
+  #### Hi!
+  #### I might be offline, hospital visits,etc. Take care! 🌹
 
 
 </div>
