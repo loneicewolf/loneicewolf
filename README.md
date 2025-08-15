@@ -5,7 +5,7 @@ ___
 
   # [Welcome!](https://github.com/loneicewolf/Shout-Outs) 
   #### Hi Comrade! SLAVA Ukraini! And Slava you! (glory to ukraine & you who read this!)
-  #### I might be offline, hospital visits,etc. Take care! 🌹
+  #### home from hospital now, finally all well ♥️ take great care of yourself you who read this
 
 
 </div>
