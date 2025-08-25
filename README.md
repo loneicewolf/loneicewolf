@@ -4,7 +4,9 @@
 ___
 
   # [Welcome!](https://github.com/loneicewolf/Shout-Outs) 
-Hii! still many hospital visits; take care!
+Hii! still many hospital visits; take care! Oh also I write a lot - sorry! 
+### And most importantly:
+## Take care of yourself! Because You Matter! 
 
 
 </div>
