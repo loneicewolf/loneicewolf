@@ -4,7 +4,7 @@
 ___
 
   # [Welcome!](https://github.com/loneicewolf/Shout-Outs) 
-Hii! still many hospital visits; and about pfp change: the previous one looked too confident, chose this one instead, i dont know what anime its from though! But most importantly: take care!
+Hii! still many hospital visits; take care!
 
 
 </div>
