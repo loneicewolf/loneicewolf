@@ -4,7 +4,9 @@
 ___
 
   # [Welcome!](https://github.com/loneicewolf/Shout-Outs) 
-Hii! a bit of checkups so i might be offline here and there but take care! **take care of you who read this**! Oh also I write a lot - sorry! 
+I am reading a lot of Physics atm, and I have many checkups, so I might be very slow to reply but I try!
+Take care you who reads this!
+Warmest wishes from sweden <3 
 
 ### And most importantly:
 ## Take care of yourself! Because You Matter! 
