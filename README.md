@@ -4,13 +4,11 @@
 ___
 
   # [Welcome!](https://github.com/loneicewolf/Shout-Outs) 
-I am reading a lot of Physics atm, and I have many checkups, so I might be very slow to reply but I try!
-Take care you who reads this!
-Warmest wishes from sweden <3 
+Recovering from smaller concussion, take care everyone! I might be slow at replying!
 
 ### And most importantly:
 ## Take care of yourself! Because You Matter! 
-
+Warmest wishes from sweden <3 
 
 </div>
 
