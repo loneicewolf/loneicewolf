@@ -61,7 +61,7 @@ class="underline"
 - [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
 - [Medium](https://medium.com/@william-martens)
 - [Reddit](https://www.reddit.com/user/Will-VX)
-- [Youtube for (malware-demos)](https://www.youtube.com/channel/UCLXV1xU0WlqtPu2wsNmMhcQ/featured) <- The Titles of the videos was problematic, youtube told me to use longer texts and use symbols(???) and other things.
+- [Youtube for (malware-demos)](https://www.youtube.com/@Jane7037-m4c) 
 - [HTB](https://app.hackthebox.com/users/545815) <- not that active
 </details>
 
