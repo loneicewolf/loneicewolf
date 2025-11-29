@@ -9,8 +9,10 @@ Recovering from smaller concussion, take care everyone! I might be slow at reply
 ### And most importantly:
 ## Take care of yourself! Because You Matter! 
 Warmest wishes from sweden <3 
+###  I'm writing a [Dossier about how I deal with bullying](https://github.com/loneicewolf/cyberbullying-patterns/blob/main/dossiers/README.md)
 
 </div>
+
 
 <details><summary> Who are you? </summary>
 
