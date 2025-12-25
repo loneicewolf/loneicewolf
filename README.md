@@ -3,7 +3,7 @@
 
 ___
 
-  # [Welcome!](https://github.com/loneicewolf/Shout-Outs) 
+  # 🌹 Welcome! Happy Christmas ♥️ 🌹
 Recovering from smaller concussion, take care everyone! I might be slow at replying!
 
 ### And most importantly:
