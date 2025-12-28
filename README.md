@@ -3,7 +3,7 @@
 
 ___
 
-  # 🌹 Welcome! Happy Christmas ♥️ 🌹
+  # 🌹 Welcome! 🌹
 Recovering from smaller concussion, take care everyone! I might be slow at replying!
 
 ### And most importantly:
