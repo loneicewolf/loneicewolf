@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ___
@@ -31,8 +30,8 @@ class="underline"
     Independent Researcher
 </a>  in the Malware Reversing Field.
 
-   // writing from 13th april  ;) this was a nice year, thanks everyone
-  - Age:       25
+  
+  - Age:       26 // Was a tense year, I hope this year becomes a bit calmer!
   - From:      Sweden
   - Has:       A speech disorder (namely, I stutter)
   - contact:   (contact details can be found below)
