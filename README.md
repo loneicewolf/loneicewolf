@@ -3,7 +3,7 @@
 ___
 
   # 🌹 Welcome! 🌹
-I am on many hospitals visits now so I am slow but a [Major project](https://github.com/loneicewolf/Rootkits-6.12.74) i'm doing, which is Linux Rootkits for Linux Kernel **6.19.+** 
+I am on many hospitals visits now so I am slow but a [Major project](https://github.com/loneicewolf/Rootkits-6.12.74) i'm doing, which is Linux Rootkits for Linux Kernel **6.19.11+** 
 
 
 **And most importantly**
