@@ -2,13 +2,12 @@
 
 ___
 
-  # 🌹 Welcome! 🌹
-I am on many hospitals visits now so I am slow but a [Major project](https://github.com/loneicewolf/Rootkits-6.12.74) i'm doing, which is Linux Rootkits for Linux Kernel **6.19.11+** 
+  # ☢️ Welcome! ☢️
+I am now taking a break from hospital visits and all that (been doing it for 26+years. time for a Break)
+so I will be **more active here on GitHub and more sites.**
 
-
-**And most importantly**
-**Take care of yourself! Because You Matter!**
-Warmest wishes from sweden <3 
+But most vitally? You who read this - _Take care of yourself_. Because **you matter.**
+Sending virtual hugs filled with love your way! 
 
 </div>
 
@@ -50,61 +49,8 @@ class="underline"
 
 ### Site Profiles
 - [Blue Sky](https://bsky.app/profile/loneicewolf.bsky.social)
-- [huggingface](https://huggingface.co/loneicewolf)
-- [HDDGuru](https://forum.hddguru.com/memberlist.php?mode=viewprofile&u=42118)
-- Mastadon
-  - [Infosec.Exchange](https://infosec.exchange/@loneicewolf)
-  - [**DEFCON**.social](https://defcon.social/@loneicewolf)
 - [STACK*sites](https://stackexchange.com/users/19592785/william-martens)
-- [gi**s**t's (mostly malware/rev shells and engineering](https://gist.github.com/loneicewolf)
-- [Quora](https://www.quora.com/profile/Loneicewolf)
-- [LinkedIn](https://www.linkedin.com/in/william-martens-16872717b/)
-- [AttackerKB](https://attackerkb.com/contributors/loneicewolf)
-- [Medium](https://medium.com/@william-martens)
-- [Reddit](https://www.reddit.com/user/Will-VX)
-- [Youtube for (malware-demos)](https://www.youtube.com/@Jane7037-m4c) 
-- [HTB](https://app.hackthebox.com/users/545815) <- not that active
-</details>
 
-
-
-<details><summary> Research </summary>
-
-## MAJOR PROJECTS
-- [ ] **[`CS` `Notes`](https://github.com/loneicewolf/CS-Notes)**
-- [ ] [RE-nls_933w_dll](https://github.com/loneicewolf/RE-nls_933w_dll)
-- [X] [`StuxNet`](https://github.com/loneicewolf/Stuxnet-Source)
-- 🗒️ [`My Scratchpad`](https://github.com/loneicewolf/Scratchpad)
-- [nls_933w_dll & WIN32M.SYS](https://github.com/loneicewolf/nls_933w_dll)
-- [ReverseShells](https://github.com/loneicewolf/ReverseShells)
-
-</details>
-
-
-<details><summary> pinned </summary>
-
-  - [DFIR](https://github.com/loneicewolf/DFIR-Resources)
-  - [compact_linux_reverse_shell.c](https://gist.github.com/loneicewolf/8232aad5722e1e7de9d92932b5a01597)
-  - [compact_windows_reverse_shell.c](https://gist.github.com/loneicewolf/03d71d65735d8b2d34b5c60b1232d144)
-  - [EXEC_LKM](https://github.com/loneicewolf/EXEC_LKM)
-  - [DotFIles](https://github.com/loneicewolf/DotFiles)
-  - [RE_QUERY](https://github.com/loneicewolf/RE_QUERY)
-
-  
-### Current Research 
-
-EquationGroup
-- [nls_933w_dll & WIN32M.SYS](https://github.com/loneicewolf/nls_933w_dll) `E's HDD reprog. modules`
-- [Stars Virus](https://github.com/loneicewolf/Stars-virus) `kinda stuxnet related`
-- [Fanny.bmp](https://github.com/loneicewolf/fanny.bmp)  `CURRENTLY undergoing extreme clean-up (sorry for the text-all-over-the-place)`
-- [FlameR](https://github.com/loneicewolf/flame-sourcecode) `additional details is `**included**` and more will be.`
-- [Duqu](https://github.com/loneicewolf/DUQU) `Duqu`
-- [Gauss](https://github.com/loneicewolf/Gauss-Src) `additional details is soon included`
-- [Agent.BTZ](https://github.com/loneicewolf/Agent.btz)
-- [LOJAX](https://github.com/loneicewolf/LOJAX)
-- [PEGASUS](https://github.com/loneicewolf/Pegasus)
-- [Linux Notes to my Friend](https://github.com/loneicewolf/linux_survival)
-- [X] **`DONE`**  [`StuxNet`](https://github.com/loneicewolf/Stuxnet-Source)
 </details>
 
 
@@ -112,7 +58,6 @@ EquationGroup
 <summary> Contact </summary>
  
 - stegano_id: `0AA01A0F1`
-- REVOLT: `Jane and 2360`
 
 </details>
 
