@@ -3,8 +3,8 @@
 ___
 
   # ☢️ Welcome! ☢️
-I am now taking a break from hospital visits and all that (been doing it for 26+years. time for a Break)
-so I will be **more active here on GitHub and more sites.**
+I will be **more active here on GitHub and more sites.**
+Because I am now taking a break from hospital visits and all that (Been doing hospital visits for 26+ years. Aka? my entire life. So I will take a break from that.)
 
 But most vitally? You who read this - _Take care of yourself_. Because **you matter.**
 Sending virtual hugs filled with love your way! 
