@@ -2,12 +2,10 @@
 
 ___
 
-  # ☢️ Welcome! ☢️
-I will be **more active here on GitHub and more sites.**
-Because I am now taking a break from hospital visits and all that (Been doing hospital visits for 26+ years. Aka? my entire life. So I will take a break from that.)
-
+  # Welcome!
+I will be **more active here on GitHub and more sites.** As I have a lot of free time now ♥️
 But most vitally? You who read this - _Take care of yourself_. Because **you matter.**
-Sending virtual hugs filled with love your way! 
+Sending virtual hugs filled with love your way! 🤗
 
 </div>
 
@@ -15,7 +13,7 @@ Sending virtual hugs filled with love your way!
 <details><summary> Who are you? </summary>
 
 
-- I am Jane! 
+- I am janna! 
 <a
 id="cy-effective-orcid-url"
 class="underline"
