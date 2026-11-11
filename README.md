@@ -3,8 +3,8 @@
 ___
 
   # Welcome!
-I will be **more active here on GitHub and more sites.** As I have a lot of free time now ♥️
-But most vitally? You who read this - _Take care of yourself_. Because **you matter.**
+Hi! I am getting into infosec again because I got a lot of free time right now!
+BUT whats more important here is not my free time, its you: - _Take care of yourself_. Because **you matter.**
 Sending virtual hugs filled with love your way! 🤗
 
 </div>
