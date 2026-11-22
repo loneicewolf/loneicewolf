@@ -6,9 +6,6 @@ ___
 Hi! I am getting into infosec again because I got a lot of free time right now!
 BUT whats more important here is not my free time, its you: - _Take care of yourself_. Because **you matter.**
 Sending virtual hugs filled with love your way! 🤗
-
-[My latest blog - About how AI-Paranoia destroys OpenSource Contributors](https://loneicewolf.github.io/blogs/site6.html)
-
 </div>
 
 
